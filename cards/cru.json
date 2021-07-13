@@ -1,0 +1,6023 @@
+[
+    {
+        "cardCode": "CRU000",
+        "name": "Arknight Shard",
+        "text": "**Legendary Viserai Specialization** *(You may only have 1 Arknight Shard in your deck, and only if your hero is Viserai.)*\\n\\nWhen you pitch Arknight Shard, create a Runechant token.",
+        "flavour": "The flow of aether disturbs the ancient mists, ripples along the surface of a mirror, unravelling the fabric of time and space. Like grits of sand beneath the tongue, he feels the echoes of the forgotten, feels their gaze rasping against his skin. The foreign heartbeat is an ember within his ribcage, its icy burn heavy with the promise of power.",
+        "rarity": "F",
+        "type": "Runeblade Resource - Gem",
+        "stats": {
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Runeblade",
+        "talent": "None",
+        "imageApiPath": "/images/CRU000",
+        "keywords": [
+            "runeblade",
+            "resource",
+            "gem"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU000-CF"
+        ]
+    },
+    {
+        "cardCode": "CRU001",
+        "name": "Rhinar, Reckless Rampage",
+        "text": "When you discard a card with 6 or more [attack] during your action phase, *intimidate*.",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Brute Hero",
+        "stats": {
+            "life": 40,
+            "intellect": 4
+        },
+        "setCode": "WTR",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU001",
+        "keywords": [
+            "brute",
+            "hero"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided",
+            "Rainbow"
+        ],
+        "printings": [
+            "RNR001",
+            "CRU001",
+            "WTR001",
+            "HER021-RF",
+            "HER001-CF",
+            "U-WTR001"
+        ]
+    },
+    {
+        "cardCode": "CRU002",
+        "name": "Kayo, Berserker Runt",
+        "text": "Whenever you play an attack action card with 6 or more base [attack], roll a 6 sided die. On;\\n\\n* 1 to 4 - Half the attack's base [attack], rounded down.\\n* 5 or 6 - Double the attack's base [attack].",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Brute Hero - Young",
+        "stats": {
+            "life": 19,
+            "intellect": 4
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU002",
+        "keywords": [
+            "brute",
+            "hero",
+            "young"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU002",
+            "HER025-CF",
+            "CRU002-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU003",
+        "name": "Romping Club",
+        "text": "**Once per turn Action** - [2 resource]: **Attack**\\n\\n**Once per Turn Effect** - When you discard a card with 6 or more [attack], Romping Club gains +1[attack] until end of turn.",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Brute Weapon - Club (2H)",
+        "stats": {
+            "attack": 4,
+            "power": 4
+        },
+        "setCode": "WTR",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU003",
+        "keywords": [
+            "brute",
+            "weapon",
+            "club",
+            "2h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided"
+        ],
+        "printings": [
+            "WTR003",
+            "LGS001-CF",
+            "U-WTR003",
+            "RNR003",
+            "CRU003"
+        ]
+    },
+    {
+        "cardCode": "CRU004",
+        "name": "Mandible Claw",
+        "text": "**Once per Turn Action -- [2 resource]: Attack**\\n\\nIf you have discarded a card with 6 or more [attack] this turn, Mandible Claw gains **go again**.",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Brute Weapon - Claw (1H)",
+        "stats": {
+            "attack": "3",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU004",
+        "keywords": [
+            "brute",
+            "weapon",
+            "claw",
+            "1h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU004-CF",
+            "CRU004",
+            "CRU005-CF",
+            "CRU005"
+        ]
+    },
+    {
+        "cardCode": "CRU006",
+        "name": "Skullhorn",
+        "text": "**Action** - Destroy Skullhorn: Draw a card then discard a random card. **Go again**\\n\\n**Arcane Barrier 2** *(If your hero would be dealt arcane damage, you may pay [2 resource] instead. If you do, prevent 2 arcane damage that source would deal.",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Brute Equipment - Head",
+        "stats": {
+            "defense": "0"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU006",
+        "keywords": [
+            "brute",
+            "equipment",
+            "head"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU006",
+            "CRU006-CF"
+        ]
+    },
+    {
+        "cardCode": "CRU007",
+        "name": "Beast Within",
+        "text": "If Beast Within is put into a graveyard from anywhere other than the combat chain, banish the top card of your deck and lose 1[life]. If it has 6 or more [attack], put it into your hand, otherwise repeat this process.",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Brute Action - Attack",
+        "stats": {
+            "cost": "3",
+            "attack": "6",
+            "defense": "3",
+            "resource": "2",
+            "power": "6"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU007",
+        "keywords": [
+            "brute",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU007",
+            "CRU007-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU008",
+        "name": "Massacre",
+        "text": "If you have discarded a card with 6 or more [attack] this turn, Massacre gains +2[attack] and **intimidate**.\\n\\nIf Massacre is discarded to pay the cost of a Brute attack action card, **intimidate**.",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Brute Action - Attack",
+        "stats": {
+            "cost": "3",
+            "attack": "6",
+            "defense": "3",
+            "resource": "1",
+            "power": "6"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU008",
+        "keywords": [
+            "brute",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU008-RF",
+            "CRU008"
+        ]
+    },
+    {
+        "cardCode": "CRU009",
+        "name": "ARGH... Smash!",
+        "text": "Roll a 6 sided die. Destroy up to X items where X is half the number, rounded down.\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Brute Action",
+        "stats": {
+            "cost": "3",
+            "defense": "3",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU009",
+        "keywords": [
+            "brute",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU009-RF",
+            "CRU009"
+        ]
+    },
+    {
+        "cardCode": "CRU010",
+        "name": "Barraging Big Horn",
+        "text": "As an additional cost to play Barraging Big Horn, discard a random card.\\n\\nWhile Barraging Big Horn is defended by less than 2 non-equipment cards, it has **go again**.",
+        "flavour": "\"Big Horn? Big problem!\" - Togark",
+        "rarity": "R",
+        "type": "Brute Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "7",
+            "defense": "3",
+            "resource": "1",
+            "power": "7"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU010",
+        "keywords": [
+            "brute",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU010",
+            "CRU010-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU011",
+        "name": "Barraging Big Horn",
+        "text": "As an additional cost to play Barraging Big Horn, discard a random card.\\n\\nWhile Barraging Big Horn is defended by less than 2 non-equipment cards, it has **go again**.",
+        "flavour": "\"Big Horn? Big problem!\" - Togark",
+        "rarity": "R",
+        "type": "Brute Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "6",
+            "defense": "3",
+            "resource": "2",
+            "power": "6"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU011",
+        "keywords": [
+            "brute",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU011-RF",
+            "CRU011"
+        ]
+    },
+    {
+        "cardCode": "CRU012",
+        "name": "Barraging Big Horn",
+        "text": "As an additional cost to play Barraging Big Horn, discard a random card.\\n\\nWhile Barraging Big Horn is defended by less than 2 non-equipment cards, it has **go again**.",
+        "flavour": "\"Big Horn? Big problem!\" - Togark",
+        "rarity": "R",
+        "type": "Brute Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "5",
+            "defense": "3",
+            "resource": "3",
+            "power": "5"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU012",
+        "keywords": [
+            "brute",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU012-RF",
+            "CRU012"
+        ]
+    },
+    {
+        "cardCode": "CRU013",
+        "name": "Predatory Assault",
+        "text": "If you have discarded a card with 6 or more [attack] this turn, Predatory Assault gains **dominate**. *(The defending hero can't defend Predatory Assault with more than 1 card from their hand.)*",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Brute Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "6",
+            "defense": "3",
+            "resource": "1",
+            "power": "6"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU013",
+        "keywords": [
+            "brute",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU013",
+            "CRU013-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU014",
+        "name": "Predatory Assault",
+        "text": "If you have discarded a card with 6 or more [attack] this turn, Predatory Assault gains **dominate**. *(The defending hero can't defend Predatory Assault with more than 1 card from their hand.)*",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Brute Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "5",
+            "defense": "3",
+            "resource": "2",
+            "power": "5"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU014",
+        "keywords": [
+            "brute",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU014-RF",
+            "CRU014"
+        ]
+    },
+    {
+        "cardCode": "CRU015",
+        "name": "Predatory Assault",
+        "text": "If you have discarded a card with 6 or more [attack] this turn, Predatory Assault gains **dominate**. *(The defending hero can't defend Predatory Assault with more than 1 card from their hand.)*",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Brute Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "4",
+            "defense": "3",
+            "resource": "3",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU015",
+        "keywords": [
+            "brute",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU015-RF",
+            "CRU015"
+        ]
+    },
+    {
+        "cardCode": "CRU016",
+        "name": "Riled Up",
+        "text": "If you have discarded a card with 6 or more [attack] this turn, Riled Up gains +1[attack].",
+        "flavour": "When word of war reached the Rek'vas Bloodboars, they were struck with fear... fear of missing out!",
+        "rarity": "C",
+        "type": "Brute Action - Attack",
+        "stats": {
+            "cost": "3",
+            "attack": "7",
+            "defense": "3",
+            "resource": "1",
+            "power": "7"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU016",
+        "keywords": [
+            "brute",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU016",
+            "CRU016-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU017",
+        "name": "Riled Up",
+        "text": "If you have discarded a card with 6 or more [attack] this turn, Riled Up gains +1[attack].",
+        "flavour": "When word of war reached the Rek'vas Bloodboars, they were struck with fear... fear of missing out!",
+        "rarity": "C",
+        "type": "Brute Action - Attack",
+        "stats": {
+            "cost": "3",
+            "attack": "6",
+            "defense": "3",
+            "resource": "2",
+            "power": "6"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU017",
+        "keywords": [
+            "brute",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU017-RF",
+            "CRU017"
+        ]
+    },
+    {
+        "cardCode": "CRU018",
+        "name": "Riled Up",
+        "text": "If you have discarded a card with 6 or more [attack] this turn, Riled Up gains +1[attack].",
+        "flavour": "When word of war reached the Rek'vas Bloodboars, they were struck with fear... fear of missing out!",
+        "rarity": "C",
+        "type": "Brute Action - Attack",
+        "stats": {
+            "cost": "3",
+            "attack": "5",
+            "defense": "3",
+            "resource": "3",
+            "power": "5"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU018",
+        "keywords": [
+            "brute",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU018",
+            "CRU018-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU019",
+        "name": "Swing Fist, Think Later",
+        "text": "As an additional cost to play Swing Fist, Think Later, discard a random card.\\n\\n**Go again**",
+        "flavour": "\"Nobody says that about my Mama.\" - Thuk",
+        "rarity": "C",
+        "type": "Brute Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "4",
+            "defense": "3",
+            "resource": "1",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU019",
+        "keywords": [
+            "brute",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU019-RF",
+            "CRU019"
+        ]
+    },
+    {
+        "cardCode": "CRU020",
+        "name": "Swing Fist, Think Later",
+        "text": "As an additional cost to play Swing Fist, Think Later, discard a random card.\\n\\n**Go again**",
+        "flavour": "\"Nobody says that about my Mama.\" - Thuk",
+        "rarity": "C",
+        "type": "Brute Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "3",
+            "defense": "3",
+            "resource": "2",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU020",
+        "keywords": [
+            "brute",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU020-RF",
+            "CRU020"
+        ]
+    },
+    {
+        "cardCode": "CRU021",
+        "name": "Swing Fist, Think Later",
+        "text": "As an additional cost to play Swing Fist, Think Later, discard a random card.\\n\\n**Go again**",
+        "flavour": "\"Nobody says that about my Mama.\" - Thuk",
+        "rarity": "C",
+        "type": "Brute Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "2",
+            "defense": "3",
+            "resource": "3",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU021",
+        "keywords": [
+            "brute",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU021",
+            "CRU021-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU022",
+        "name": "Bravo, Showstopper",
+        "text": "**Action** - [2 resource]: Until end of turn, your attack action cards with cost [3 resource] or greater gain **dominate**. **Go again** *(The defending hero can't the attack with more than 1 card from their hand.*",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Guardian Hero",
+        "stats": {
+            "life": 40,
+            "intellect": 4
+        },
+        "setCode": "WTR",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU022",
+        "keywords": [
+            "guardian",
+            "hero"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided",
+            "Rainbow"
+        ],
+        "printings": [
+            "BVO001",
+            "U-WTR038",
+            "WTR038",
+            "HER022-RF",
+            "CRU022",
+            "HER002-CF"
+        ]
+    },
+    {
+        "cardCode": "CRU023",
+        "name": "Anothos",
+        "text": "**Once per turn action [3 resource] - Attack**\\n\\nIf you have 2 or more cards in your pitch zone with cost [3 resource] or greater, Anothos gains +2[attack].",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Guardian Weapon - Hammer (2H)",
+        "stats": {
+            "attack": 4,
+            "power": 4
+        },
+        "setCode": "WTR",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU023",
+        "keywords": [
+            "guardian",
+            "weapon",
+            "hammer",
+            "2h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided"
+        ],
+        "printings": [
+            "LGS002-CF",
+            "WTR040",
+            "U-WTR040",
+            "CRU023",
+            "BVO003"
+        ]
+    },
+    {
+        "cardCode": "CRU024",
+        "name": "Sledge of Anvilheim",
+        "text": "**Action - [4 resource]: Attack**",
+        "flavour": "\"Where Isen's Peak touches the heavens, mighty weapons fit for the Gods are forged.\" - Olde tale of Anvilheim",
+        "rarity": "R",
+        "type": "Guardian Weapon - Hammer (2H)",
+        "stats": {
+            "attack": "6",
+            "power": "6"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU024",
+        "keywords": [
+            "guardian",
+            "weapon",
+            "hammer",
+            "2h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU024-CF",
+            "CRU024"
+        ]
+    },
+    {
+        "cardCode": "CRU025",
+        "name": "Crater Fist",
+        "text": "**Action - [3 resource],** destroy Crater Fist: Your attacks with **crush** gain +2[attack] this turn. **Go again**\\n\\n**Temper** *(If you defend with Crater Fist, put a -1[defense] counter on it when the combat chain closes then destroy it if it has 0[defense].)*",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Guardian Equipment - Arms",
+        "stats": {
+            "defense": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU025",
+        "keywords": [
+            "guardian",
+            "equipment",
+            "arms"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU025",
+            "CRU025-CF"
+        ]
+    },
+    {
+        "cardCode": "CRU026",
+        "name": "Mangle",
+        "text": "**Crush** - If Mangle deals 4 or more damage to a hero, destroy target equipment they control with a -1[defense] counter on it.",
+        "flavour": "\"There will be no peace for warmongers like you.\" - Jarl Vetreidi",
+        "rarity": "M",
+        "type": "Guardian Action - Attack",
+        "stats": {
+            "cost": "4",
+            "attack": "8",
+            "defense": "3",
+            "resource": "1",
+            "power": "8"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU026",
+        "keywords": [
+            "guardian",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU026",
+            "CRU026-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU027",
+        "name": "Righteous Cleansing",
+        "text": "**Crush** - If Righteous Cleansing deals 4 or more damage to a hero, look at the top 5 cards of their deck. Banish 1 or more cards with the same name from among them, then put the rest on top of their deck in any order.",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Guardian Action - Attack",
+        "stats": {
+            "cost": "7",
+            "attack": "10",
+            "defense": "3",
+            "resource": "2",
+            "power": "10"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU027",
+        "keywords": [
+            "guardian",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU027-RF",
+            "CRU027"
+        ]
+    },
+    {
+        "cardCode": "CRU028",
+        "name": "Stamp Authority",
+        "text": "When Stamp Authority enters the arena, if you have 2 or more cards in your pitch zone with cost 3 or greater, your hero gains +1[intellect] until end of turn.\\n\\nWhile Stamp Authority is in the arena, attack action card effects do not trigger when they hit.\\n\\nAt the beginning of your action phase, destroy Stamp Authority.",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Guardian Action - Aura",
+        "stats": {
+            "cost": "3",
+            "defense": "3",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU028",
+        "keywords": [
+            "guardian",
+            "action",
+            "aura"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU028-RF",
+            "CRU028"
+        ]
+    },
+    {
+        "cardCode": "CRU029",
+        "name": "Towering Titan",
+        "text": "*(Auras stay in the arena until they are destroyed.)*\\n\\nAt the beginning of your action phase, destroy Towering Titan then the next Guardian attack action card you play this turn gains +10[attack].",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Guardian Action - Aura",
+        "stats": {
+            "cost": "9",
+            "defense": "3",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU029",
+        "keywords": [
+            "guardian",
+            "action",
+            "aura"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU029",
+            "CRU029-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU030",
+        "name": "Towering Titan",
+        "text": "*(Auras stay in the arena until they are destroyed.)*\\n\\nAt the beginning of your action phase, destroy Towering Titan then the next Guardian attack action card you play this turn gains +9[attack].",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Guardian Action - Aura",
+        "stats": {
+            "cost": "9",
+            "defense": "3",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU030",
+        "keywords": [
+            "guardian",
+            "action",
+            "aura"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU030",
+            "CRU030-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU031",
+        "name": "Towering Titan",
+        "text": "*(Auras stay in the arena until they are destroyed.)*\\n\\nAt the beginning of your action phase, destroy Towering Titan then the next Guardian attack action card you play this turn gains +8[attack].",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Guardian Action - Aura",
+        "stats": {
+            "cost": "9",
+            "defense": "3",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU031",
+        "keywords": [
+            "guardian",
+            "action",
+            "aura"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU031",
+            "CRU031-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU032",
+        "name": "Crush the Weak",
+        "text": "**Crush** - If Crush the Weak does 4 or more damage to a hero, they can't play attack action cards with 3 or less base [attack] during their next action phase.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Guardian Action - Attack",
+        "stats": {
+            "cost": "3",
+            "attack": "7",
+            "defense": "3",
+            "resource": "1",
+            "power": "7"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU032",
+        "keywords": [
+            "guardian",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU032",
+            "CRU032-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU033",
+        "name": "Crush the Weak",
+        "text": "**Crush** - If Crush the Weak does 4 or more damage to a hero, they can't play attack action cards with 3 or less base [attack] during their next action phase.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Guardian Action - Attack",
+        "stats": {
+            "cost": "3",
+            "attack": "6",
+            "defense": "3",
+            "resource": "2",
+            "power": "6"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU033",
+        "keywords": [
+            "guardian",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU033-RF",
+            "CRU033"
+        ]
+    },
+    {
+        "cardCode": "CRU034",
+        "name": "Crush the Weak",
+        "text": "**Crush** - If Crush the Weak does 4 or more damage to a hero, they can't play attack action cards with 3 or less base [attack] during their next action phase.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Guardian Action - Attack",
+        "stats": {
+            "cost": "3",
+            "attack": "5",
+            "defense": "3",
+            "resource": "3",
+            "power": "5"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU034",
+        "keywords": [
+            "guardian",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU034",
+            "CRU034-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU035",
+        "name": "Chokeslam",
+        "text": "**Crush** - If Chokeslam deals 4 or more damage to a hero, attack action cards they control can't gain [attack] during their next action phase.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Guardian Action - Attack",
+        "stats": {
+            "cost": "4",
+            "attack": "8",
+            "defense": "3",
+            "resource": "1",
+            "power": "8"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU035",
+        "keywords": [
+            "guardian",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU035-RF",
+            "CRU035"
+        ]
+    },
+    {
+        "cardCode": "CRU036",
+        "name": "Chokeslam",
+        "text": "**Crush** - If Chokeslam deals 4 or more damage to a hero, attack action cards they control can't gain [attack] during their next action phase.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Guardian Action - Attack",
+        "stats": {
+            "cost": "4",
+            "attack": "7",
+            "defense": "3",
+            "resource": "2",
+            "power": "7"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU036",
+        "keywords": [
+            "guardian",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU036-RF",
+            "CRU036"
+        ]
+    },
+    {
+        "cardCode": "CRU037",
+        "name": "Chokeslam",
+        "text": "**Crush** - If Chokeslam deals 4 or more damage to a hero, attack action cards they control can't gain [attack] during their next action phase.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Guardian Action - Attack",
+        "stats": {
+            "cost": "4",
+            "attack": "6",
+            "defense": "3",
+            "resource": "3",
+            "power": "6"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU037",
+        "keywords": [
+            "guardian",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU037",
+            "CRU037-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU038",
+        "name": "Emerging Dominance",
+        "text": "*(Auras stay in the arena until they are destroyed.)*\\n\\nAt the beginning of your action phase, destroy Emerging Dominance then the next Guardian arttack action card you play this turn gains +3[attack] and **dominate**. *(The defending hero can't defend the attack with more than 1 card from their hand.)*",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Guardian Action - Aura",
+        "stats": {
+            "cost": "2",
+            "defense": "3",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU038",
+        "keywords": [
+            "guardian",
+            "action",
+            "aura"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU038",
+            "CRU038-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU039",
+        "name": "Emerging Dominance",
+        "text": "*(Auras stay in the arena until they are destroyed.)*\\n\\nAt the beginning of your action phase, destroy Emerging Dominance then the next Guardian arttack action card you play this turn gains +2[attack] and **dominate**. *(The defending hero can't defend the attack with more than 1 card from their hand.)*",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Guardian Action - Aura",
+        "stats": {
+            "cost": "2",
+            "defense": "3",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU039",
+        "keywords": [
+            "guardian",
+            "action",
+            "aura"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU039-RF",
+            "CRU039"
+        ]
+    },
+    {
+        "cardCode": "CRU040",
+        "name": "Emerging Dominance",
+        "text": "*(Auras stay in the arena until they are destroyed.)*\\n\\nAt the beginning of your action phase, destroy Emerging Dominance then the next Guardian arttack action card you play this turn gains +1[attack] and **dominate**. *(The defending hero can't defend the attack with more than 1 card from their hand.)*",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Guardian Action - Aura",
+        "stats": {
+            "cost": "2",
+            "defense": "3",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU040",
+        "keywords": [
+            "guardian",
+            "action",
+            "aura"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU040",
+            "CRU040-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU041",
+        "name": "Blessing of Serenity",
+        "text": "The next time you would be dealt [attack] damage this turn, prevent 3 damage that source would deal.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Guardian Instant",
+        "stats": {
+            "cost": "0",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU041",
+        "keywords": [
+            "guardian",
+            "instant"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU041-RF",
+            "CRU041"
+        ]
+    },
+    {
+        "cardCode": "CRU042",
+        "name": "Blessing of Serenity",
+        "text": "The next time you would be dealt [attack] damage this turn, prevent 2 damage that source would deal.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Guardian Instant",
+        "stats": {
+            "cost": "0",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU042",
+        "keywords": [
+            "guardian",
+            "instant"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU042",
+            "CRU042-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU043",
+        "name": "Blessing of Serenity",
+        "text": "The next time you would be dealt [attack] damage this turn, prevent 1 damage that source would deal.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Guardian Instant",
+        "stats": {
+            "cost": "0",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU043",
+        "keywords": [
+            "guardian",
+            "instant"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU043",
+            "CRU043-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU044",
+        "name": "Seismic Surge",
+        "text": "At the beginning of your action phase, destroy Seismic Surge then the next Guardian attack action card you pay, costs [cost] less to play.",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Guardian Token - Aura",
+        "stats": {},
+        "setCode": "WTR",
+        "cardClass": "Guardian",
+        "talent": "None",
+        "imageApiPath": "/images/CRU044",
+        "keywords": [
+            "guardian",
+            "token",
+            "aura"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Double Slided",
+            "Rainbow"
+        ],
+        "printings": [
+            "WTR075",
+            "CRU044-RF",
+            "U-WTR075"
+        ]
+    },
+    {
+        "cardCode": "CRU045",
+        "name": "Katsu, the Wanderer",
+        "text": "**Once per Turn Effect** When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it face up, then shuffle your deck. You may play it this turn.",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Ninja Hero",
+        "stats": {
+            "life": 40,
+            "intellect": 4
+        },
+        "setCode": "WTR",
+        "cardClass": "Guardian",
+        "talent": "None",
+        "imageApiPath": "/images/CRU045",
+        "keywords": [
+            "ninja",
+            "hero"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided",
+            "Rainbow"
+        ],
+        "printings": [
+            "HER023-RF",
+            "U-WTR076",
+            "HER003-CF",
+            "CRU045",
+            "WTR076",
+            "KSU001"
+        ]
+    },
+    {
+        "cardCode": "CRU046",
+        "name": "Ira, Crimson Haze",
+        "text": "Your second attack each turn gains +1[attack].",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ninja Hero - Young",
+        "stats": {
+            "life": "20",
+            "intellect": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU046",
+        "keywords": [
+            "ninja",
+            "hero",
+            "young"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Rainbow"
+        ],
+        "printings": [
+            "IRA001",
+            "CRU046-RF",
+            "HER000-CF",
+            "CRU046"
+        ]
+    },
+    {
+        "cardCode": "CRU047",
+        "name": "Benji, the Piercing Wind",
+        "text": "Attack action cards you control with 2 or less [attack] can't be defended by cards from hand. *(This includes defense reaction cards.)*\\n\\n**Once per Turn Effect** - When an attack action card you control hits, your next attack this turn gains +1[attack].",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Ninja Hero - Young",
+        "stats": {
+            "life": 17,
+            "intellect": 3
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU047",
+        "keywords": [
+            "ninja",
+            "hero",
+            "young"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Rainbow"
+        ],
+        "printings": [
+            "HER026-CF",
+            "CRU047",
+            "CRU047-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU048",
+        "name": "Harmonized Kodachi",
+        "text": "**Once per Turn Action** - [resource]: Attack\\n\\nIf you have a card in your pitch zone with cost 0, Harmonized Kodachi gains **go again**.",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Ninja Weapon - Dagger (1H)",
+        "stats": {
+            "attack": 1,
+            "power": 1
+        },
+        "setCode": "WTR",
+        "cardClass": "Guardian",
+        "talent": "None",
+        "imageApiPath": "/images/CRU048",
+        "keywords": [
+            "ninja",
+            "weapon",
+            "dagger",
+            "1h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided"
+        ],
+        "printings": [
+            "WTR078",
+            "KSU004",
+            "KSU003",
+            "LGS003-CF",
+            "U-WTR078",
+            "CRU049",
+            "CRU049-CF",
+            "CRU048"
+        ]
+    },
+    {
+        "cardCode": "CRU049",
+        "name": "Harmonized Kodachi",
+        "text": "**Once per Turn Action** - [resource]: Attack\\n\\nIf you have a card in your pitch zone with cost 0, Harmonized Kodachi gains **go again**.",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Ninja Weapon - Dagger (1H)",
+        "stats": {
+            "attack": 1,
+            "power": 1
+        },
+        "setCode": "WTR",
+        "cardClass": "Guardian",
+        "talent": "None",
+        "imageApiPath": "/images/CRU049",
+        "keywords": [
+            "ninja",
+            "weapon",
+            "dagger",
+            "1h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided"
+        ],
+        "printings": [
+            "WTR078",
+            "KSU004",
+            "KSU003",
+            "LGS003-CF",
+            "U-WTR078",
+            "CRU049",
+            "CRU049-CF",
+            "CRU048"
+        ]
+    },
+    {
+        "cardCode": "CRU050",
+        "name": "Edge of Autumn",
+        "text": "**Once per Turn Action -- [resource]: Attack. Go again**",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Ninja Weapon - (2H)",
+        "stats": {
+            "attack": "1",
+            "power": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU050",
+        "keywords": [
+            "ninja",
+            "weapon",
+            "2h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU050-CF",
+            "CRU050",
+            "IRA002"
+        ]
+    },
+    {
+        "cardCode": "CRU051",
+        "name": "Zephyr Needle",
+        "text": "**Once per Turn Action -- [resource]: Attack. Go again**\\n\\nIf Zephyr Needle is defended by a card with [defense] greater than Zephyr Needle's [attack], destroy Zephyr Needle when the combat chain closes.",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Ninja Weapon - Dagger (1H)",
+        "stats": {
+            "attack": "2",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU051",
+        "keywords": [
+            "ninja",
+            "weapon",
+            "dagger",
+            "1h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU051-CF",
+            "CRU052-CF",
+            "CRU051",
+            "CRU052"
+        ]
+    },
+    {
+        "cardCode": "CRU052",
+        "name": "Zephyr Needle",
+        "text": "**Once per Turn Action -- [resource]: Attack. Go again**\\n\\nIf Zephyr Needle is defended by a card with [defense] greater than Zephyr Needle's [attack], destroy Zephyr Needle when the combat chain closes.",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Ninja Weapon - Dagger (1H)",
+        "stats": {
+            "attack": "2",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU052",
+        "keywords": [
+            "ninja",
+            "weapon",
+            "dagger",
+            "1h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU051-CF",
+            "CRU052-CF",
+            "CRU051",
+            "CRU052"
+        ]
+    },
+    {
+        "cardCode": "CRU053",
+        "name": "Breeze Rider Boots",
+        "text": "When a Ninja attack action card you control hits, you may destroy Breeze Rider Boots. If you do, attack action cards with **combo** gain **go again** this turn.\\n\\n**Battleworn** *(If you defend with Breeze Rider Boots, put a -1[defense] counter on it when the combat chain closes.)*",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Ninja Equipment - Legs",
+        "stats": {
+            "defense": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU053",
+        "keywords": [
+            "ninja",
+            "equipment",
+            "legs"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU053",
+            "CRU053-CF"
+        ]
+    },
+    {
+        "cardCode": "CRU054",
+        "name": "Find Center",
+        "text": "**Combo** - If Crane Dance was the last attack this combat chain, Find Center can't be defended by cards with [resource] cost less than the number of chain links you control, and it gains \"If this hits, create a Zen State token.\"",
+        "flavour": "From your home, draw strength. From your family, take heart. From the mists, find peace.",
+        "rarity": "M",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "2",
+            "defense": "3",
+            "resource": "3",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU054",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU054",
+            "CRU054-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU055",
+        "name": "Flood of Force",
+        "text": "**Combo** - If Rushing River or Flood of Force was the last attack this combat chain, reveal the top card of your deck. If it's a card with **combo**, put it into your hand then Flood of Force gains +3[attack] and **go again**.",
+        "flavour": "Every thunderstorm begins with a single drop of rain.",
+        "rarity": "M",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "1",
+            "defense": "3",
+            "resource": "2",
+            "power": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU055",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU055-RF",
+            "CRU055"
+        ]
+    },
+    {
+        "cardCode": "CRU056",
+        "name": "Heron's Flight",
+        "text": "**Combo** - If Crane Dance was the last attack this combat chain, Heron's Flight gains +2[attack] and you choose attack action or 'non-attack' action. Heron's Flight can only be defended by cards of that type.",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "3",
+            "defense": "3",
+            "resource": "1",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU056",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU056",
+            "CRU056-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU057",
+        "name": "Crane Dance",
+        "text": "**Combo** - Soulbead Strike was the last attack this combat chain, Crane Dance gains +1[attack], **go again**, and it can't be defended by attack action cards with base [attack] greater than the number of chain links you control.",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "3",
+            "defense": "3",
+            "resource": "1",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU057",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU057",
+            "CRU057-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU058",
+        "name": "Crane Dance",
+        "text": "**Combo** - Soulbead Strike was the last attack this combat chain, Crane Dance gains +1[attack], **go again**, and it can't be defended by attack action cards with base [attack] greater than the number of chain links you control.",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "2",
+            "defense": "3",
+            "resource": "2",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU058",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU058",
+            "CRU058-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU059",
+        "name": "Crane Dance",
+        "text": "**Combo** - Soulbead Strike was the last attack this combat chain, Crane Dance gains +1[attack], **go again**, and it can't be defended by attack action cards with base [attack] greater than the number of chain links you control.",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "1",
+            "defense": "3",
+            "resource": "3",
+            "power": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU059",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU059-RF",
+            "CRU059"
+        ]
+    },
+    {
+        "cardCode": "CRU060",
+        "name": "Rushing River",
+        "text": "**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1[attack], **go again** and \"if Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain.\"",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "3",
+            "defense": "3",
+            "resource": "1",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU060",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU060",
+            "CRU060-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU061",
+        "name": "Rushing River",
+        "text": "**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1[attack], **go again** and \"if Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain.\"",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "2",
+            "defense": "3",
+            "resource": "2",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU061",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU061",
+            "CRU061-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU062",
+        "name": "Rushing River",
+        "text": "**Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1[attack], **go again** and \"if Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain.\"",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "1",
+            "defense": "3",
+            "resource": "3",
+            "power": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU062",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU062-RF",
+            "CRU062"
+        ]
+    },
+    {
+        "cardCode": "CRU063",
+        "name": "Flying Kick",
+        "text": "If Flying Kick is played as chain link 3 or higher, it gains +2[attack].",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "5",
+            "defense": "3",
+            "resource": "1",
+            "power": "5"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU063",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "IRA007",
+            "CRU063-RF",
+            "CRU063"
+        ]
+    },
+    {
+        "cardCode": "CRU064",
+        "name": "Flying Kick",
+        "text": "If Flying Kick is played as chain link 3 or higher, it gains +2[attack].",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "4",
+            "defense": "3",
+            "resource": "2",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU064",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU064-RF",
+            "CRU064"
+        ]
+    },
+    {
+        "cardCode": "CRU065",
+        "name": "Flying Kick",
+        "text": "If Flying Kick is played as chain link 3 or higher, it gains +2[attack].",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "3",
+            "defense": "3",
+            "resource": "3",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU065",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU065-RF",
+            "CRU065"
+        ]
+    },
+    {
+        "cardCode": "CRU066",
+        "name": "Soulbead Strike",
+        "text": "If Soulbead Strike hits, it gains **go again**.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "4",
+            "defense": "3",
+            "resource": "1",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU066",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU066",
+            "CRU066-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU067",
+        "name": "Soulbead Strike",
+        "text": "If Soulbead Strike hits, it gains **go again**.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "3",
+            "defense": "3",
+            "resource": "2",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU067",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU067-RF",
+            "CRU067"
+        ]
+    },
+    {
+        "cardCode": "CRU068",
+        "name": "Soulbead Strike",
+        "text": "If Soulbead Strike hits, it gains **go again**.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "2",
+            "defense": "3",
+            "resource": "3",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU068",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU068",
+            "CRU068-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU069",
+        "name": "Torrent of Tempo",
+        "text": "If Torrent of Tempo hits, it gains **go again**.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "4",
+            "defense": "3",
+            "resource": "1",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU069",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU069-RF",
+            "CRU069",
+            "IRA006"
+        ]
+    },
+    {
+        "cardCode": "CRU070",
+        "name": "Torrent of Tempo",
+        "text": "If Torrent of Tempo hits, it gains **go again**.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "3",
+            "defense": "3",
+            "resource": "2",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU070",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU070",
+            "CRU070-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU071",
+        "name": "Torrent of Tempo",
+        "text": "If Torrent of Tempo hits, it gains **go again**.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "2",
+            "defense": "3",
+            "resource": "3",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU071",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU071",
+            "CRU071-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU072",
+        "name": "Bittering Thorns",
+        "text": "If Bittering Thorns hits, your next attack this turn gains +1[attack].",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "3",
+            "defense": "2",
+            "resource": "2",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU072",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU072-RF",
+            "CRU072",
+            "IRA005"
+        ]
+    },
+    {
+        "cardCode": "CRU073",
+        "name": "Salt the Wound",
+        "text": "Salt the Wound gains +1[attack] for each attack that has hit this combat chain.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "2",
+            "defense": "3",
+            "resource": "2",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU073",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU073",
+            "CRU073-RF",
+            "IRA004"
+        ]
+    },
+    {
+        "cardCode": "CRU074",
+        "name": "Whirling Mist Blossom",
+        "text": "**Ira Specialization** *(You may only have Whirling Mist Blossom in your deck if your hero is Ira.)*\\n\\nIf Whirling Mist Blossom hits, and it's the second or higher chain link in a row to hit, draw 2 cards.\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ninja Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "2",
+            "defense": "2",
+            "resource": "2",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU074",
+        "keywords": [
+            "ninja",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU074",
+            "IRA003",
+            "CRU074-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU075",
+        "name": "Zen State",
+        "text": "Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.\\n\\nWhenever your hero would be dealt damage, prevent 1 damage that source would deal.",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Ninja Token - Aura",
+        "stats": {},
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU075",
+        "keywords": [
+            "ninja",
+            "token",
+            "aura"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU075",
+            "CRU075-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU076",
+        "name": "Dorinthea Ironsong",
+        "text": "**Once per Turn Effect** - When your weapon attack hits, you may attack an additional time with that weapon this turn.",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Warrior Hero",
+        "stats": {
+            "life": 40,
+            "intellect": 4
+        },
+        "setCode": "WTR",
+        "cardClass": "Ninja",
+        "talent": "None",
+        "imageApiPath": "/images/CRU076",
+        "keywords": [
+            "warrior",
+            "hero"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided",
+            "Rainbow"
+        ],
+        "printings": [
+            "WTR113",
+            "HER004-CF",
+            "U-WTR113",
+            "TEA001",
+            "CRU076",
+            "HER024-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU077",
+        "name": "Kassai, Cintari Sellsword",
+        "text": "Your second sword attack each turn costs [resource] less.\\n\\nAt the beginning of your end phase, if you have attacked 2 or more times with weapons this turn, create a Copper token for each weapon attack that hit. *(It's an item with \"**Action** - [4 resource], destroy Copper: Draw a card. **Go again**\")*",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Warrior Hero - Young",
+        "stats": {
+            "life": 20,
+            "intellect": 4
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU077",
+        "keywords": [
+            "warrior",
+            "hero",
+            "young"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU077",
+            "HER029-CF",
+            "CRU077-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU078",
+        "name": "Dawnblade",
+        "text": "**Once per Turn Action - [resource]: Attack**\\n\\nIf Dawnblade hits, and it's the second time it has hit this turn, put a +1[attack] counter on Dawnblade. \\n\\nAt the beginning of your end phase, if Dawnblade did not hit this turn, remove all +1[attack] counters from Dawnblade.",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Warrior Weapon - Sword (2H)",
+        "stats": {
+            "attack": 3,
+            "power": 3
+        },
+        "setCode": "WTR",
+        "cardClass": "Ninja",
+        "talent": "None",
+        "imageApiPath": "/images/CRU078",
+        "keywords": [
+            "warrior",
+            "weapon",
+            "sword",
+            "2h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided"
+        ],
+        "printings": [
+            "LGS004-CF",
+            "U-WTR115",
+            "WTR115",
+            "TEA003",
+            "CRU078"
+        ]
+    },
+    {
+        "cardCode": "CRU079",
+        "name": "Cintari Saber",
+        "text": "**Once per Turn Action - [resource]: Attack**\\n\\nIf Cintari Saber is defended by an attack action card, it gains +1[attack] until end of turn.",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Warrior Weapon - Sword (1H)",
+        "stats": {
+            "attack": "2",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU079",
+        "keywords": [
+            "warrior",
+            "weapon",
+            "sword",
+            "1h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU079",
+            "CRU080",
+            "CRU080-CF",
+            "CRU079-CF"
+        ]
+    },
+    {
+        "cardCode": "CRU081",
+        "name": "Courage of Bladehold",
+        "text": "**Action** - Destroy Courage of Bladehold: Your sword attacks cost [resource] less per turn. **Go again**\\n\\n**Temper** *(If you defend with Courage of Bladehold, put a -1[defense] counter on it when the combat chain closes then destroy it if it has 0[defense])*",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Warrior Equipment - Chest",
+        "stats": {
+            "defense": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU081",
+        "keywords": [
+            "warrior",
+            "equipment",
+            "chest"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU081-CF",
+            "CRU081"
+        ]
+    },
+    {
+        "cardCode": "CRU082",
+        "name": "Twinning Blade",
+        "text": "You may attack an additional time with target sword this turn. *(You must have an action point to attack an additional time.)*",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Warrior Attack Reaction",
+        "stats": {
+            "cost": "0",
+            "defense": "3",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU082",
+        "keywords": [
+            "warrior",
+            "attack",
+            "reaction"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU082-RF",
+            "CRU082",
+            "CRU082-EA"
+        ]
+    },
+    {
+        "cardCode": "CRU083",
+        "name": "Unified Decree",
+        "text": "Target weapon attack gains +3[attack].\\n\\n**Reprise** If the defending hero has defended with a card from their hand this chain link, look at top card of your deck. If it's an attack action card, you may banish it. If you do, you may play it this combat chain.",
+        "flavour": "\"In unity, we will overcome.\" - Hala Goldenhelm",
+        "rarity": "M",
+        "type": "Warrior Attack Reaction",
+        "stats": {
+            "cost": "2",
+            "defense": "3",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU083",
+        "keywords": [
+            "warrior",
+            "attack",
+            "reaction"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU083-RF",
+            "CRU083"
+        ]
+    },
+    {
+        "cardCode": "CRU084",
+        "name": "Spoils of War",
+        "text": "Your next weapon attack this turn gains +2[attack] and **go again**.\\n\\nWhenever a weapon you control hits this turn, create 2 Copper tokens.\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Warrior Action",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU084",
+        "keywords": [
+            "warrior",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU084-RF",
+            "CRU084"
+        ]
+    },
+    {
+        "cardCode": "CRU085",
+        "name": "Dauntless",
+        "text": "Your next weapon attack this turn gains +3[attack].\\n\\nThe next defense reaction card the defending hero plays this turn costs an additional [resource] to play. \\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Warrior Action",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU085",
+        "keywords": [
+            "warrior",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU085-RF",
+            "CRU085"
+        ]
+    },
+    {
+        "cardCode": "CRU086",
+        "name": "Dauntless",
+        "text": "Your next weapon attack this turn gains +2[attack].\\n\\nThe next defense reaction card the defending hero plays this turn costs an additional [resource] to play. \\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Warrior Action",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU086",
+        "keywords": [
+            "warrior",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU086-RF",
+            "CRU086"
+        ]
+    },
+    {
+        "cardCode": "CRU087",
+        "name": "Dauntless",
+        "text": "Your next weapon attack this turn gains +1[attack].\\n\\nThe next defense reaction card the defending hero plays this turn costs an additional [resource] to play. \\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Warrior Action",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU087",
+        "keywords": [
+            "warrior",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU087",
+            "CRU087-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU088",
+        "name": "Out for Blood",
+        "text": "Target weapon attack gains +3[attack].\\n\\n**Reprise** If the defending hero has defended with a card from their hand this chain link, your next attack this turn gains +1[attack].",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Warrior Attack Reaction",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU088",
+        "keywords": [
+            "warrior",
+            "attack",
+            "reaction"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU088-RF",
+            "CRU088"
+        ]
+    },
+    {
+        "cardCode": "CRU089",
+        "name": "Out for Blood",
+        "text": "Target weapon attack gains +2[attack].\\n\\n**Reprise** If the defending hero has defended with a card from their hand this chain link, your next attack this turn gains +1[attack].",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Warrior Attack Reaction",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU089",
+        "keywords": [
+            "warrior",
+            "attack",
+            "reaction"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU089-RF",
+            "CRU089"
+        ]
+    },
+    {
+        "cardCode": "CRU090",
+        "name": "Out for Blood",
+        "text": "Target weapon attack gains +1[attack].\\n\\n**Reprise** If the defending hero has defended with a card from their hand this chain link, your next attack this turn gains +1[attack].",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Warrior Attack Reaction",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU090",
+        "keywords": [
+            "warrior",
+            "attack",
+            "reaction"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU090",
+            "CRU090-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU091",
+        "name": "Hit and Run",
+        "text": "Your next weapon attack this turn gains **go again**.\\n\\nIf you have attacked with a weapon this turn, your next attack this turn gains +3[attack].\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Warrior Action",
+        "stats": {
+            "cost": "0",
+            "defense": "3",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU091",
+        "keywords": [
+            "warrior",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU091",
+            "CRU091-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU092",
+        "name": "Hit and Run",
+        "text": "Your next weapon attack this turn gains **go again**.\\n\\nIf you have attacked with a weapon this turn, your next attack this turn gains +2[attack].\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Warrior Action",
+        "stats": {
+            "cost": "0",
+            "defense": "3",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU092",
+        "keywords": [
+            "warrior",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU092-RF",
+            "CRU092"
+        ]
+    },
+    {
+        "cardCode": "CRU093",
+        "name": "Hit and Run",
+        "text": "Your next weapon attack this turn gains **go again**.\\n\\nIf you have attacked with a weapon this turn, your next attack this turn gains +1[attack].\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Warrior Action",
+        "stats": {
+            "cost": "0",
+            "defense": "3",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU093",
+        "keywords": [
+            "warrior",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU093",
+            "CRU093-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU094",
+        "name": "Push Forward",
+        "text": "Your next weapon attack this turn gains +3[attack].\\n\\nIf you have with a weapon this turn, your next attack this turn gains **dominate**. *(The defending hero can't defend the attack with more than 1 card from their hand.)*\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Warrior Action",
+        "stats": {
+            "cost": 1,
+            "defense": 3,
+            "resource": 1
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU094",
+        "keywords": [
+            "warrior",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU094-RF",
+            "CRU094",
+            "BOL030"
+        ]
+    },
+    {
+        "cardCode": "CRU095",
+        "name": "Push Forward",
+        "text": "Your next weapon attack this turn gains +2[attack].\\n\\nIf you have with a weapon this turn, your next attack this turn gains **dominate**. *(The defending hero can't defend the attack with more than 1 card from their hand.)*\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Warrior Action",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU095",
+        "keywords": [
+            "warrior",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU095",
+            "CRU095-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU096",
+        "name": "Push Forward",
+        "text": "Your next weapon attack this turn gains +1[attack].\\n\\nIf you have with a weapon this turn, your next attack this turn gains **dominate**. *(The defending hero can't defend the attack with more than 1 card from their hand.)*\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Warrior Action",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU096",
+        "keywords": [
+            "warrior",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU096",
+            "CRU096-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU097",
+        "name": "Shiyana, Diamond Gemini",
+        "text": "You may have **specialization** cards of any hero in your deck.\\n\\nAt the beginning of your action phase, Shiyana becomes a copy of target hero until the start of your next turn, and gains \"Cards you own are the class of your hero in addition to their other class types.\"",
+        "flavour": "",
+        "rarity": "L",
+        "type": "Shapeshifter Hero - Young",
+        "stats": {
+            "life": "20",
+            "intellect": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU097",
+        "keywords": [
+            "shapeshifter",
+            "hero",
+            "young"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU097-CF"
+        ]
+    },
+    {
+        "cardCode": "CRU098",
+        "name": "Dash, Inventor Extraordinaire",
+        "text": "You may start the game with a Mechanologist item with cost [2 resource] or less in the arena. *(It's considered to have entered the arena.)*",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Mechanologist Hero",
+        "stats": {
+            "life": 40,
+            "intellect": 4
+        },
+        "setCode": "ARC",
+        "cardClass": "Runeblade",
+        "talent": "None",
+        "imageApiPath": "/images/CRU098",
+        "keywords": [
+            "mechanologist",
+            "hero"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided",
+            "Rainbow"
+        ],
+        "printings": [
+            "HER017-RF",
+            "HER009-CF",
+            "ARC001",
+            "U-ARC001",
+            "CRU098"
+        ]
+    },
+    {
+        "cardCode": "CRU099",
+        "name": "Data Doll MKII",
+        "text": "Whenever a Mechanologist item with cost 2 or less is put into your banished zone from your deck, put it into the arena.",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Mechanologist Hero - Young",
+        "stats": {
+            "life": 20,
+            "intellect": 4
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU099",
+        "keywords": [
+            "mechanologist",
+            "hero",
+            "young"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Rainbow"
+        ],
+        "printings": [
+            "HER027-CF",
+            "CRU099-RF",
+            "CRU099"
+        ]
+    },
+    {
+        "cardCode": "CRU100",
+        "name": "Teklo Plasma Pistol",
+        "text": "**Action** - Remove a steam counter from Teklo Plasma Pistol: **Attack**\\n\\n**Action** - [resource]: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. **Go again**",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Mechanologist Weapon - Pistol (2H)",
+        "stats": {
+            "attack": 2,
+            "power": 2
+        },
+        "setCode": "ARC",
+        "cardClass": "Runeblade",
+        "talent": "None",
+        "imageApiPath": "/images/CRU100",
+        "keywords": [
+            "mechanologist",
+            "weapon",
+            "pistol",
+            "2h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided"
+        ],
+        "printings": [
+            "ARC003",
+            "LGS009-CF",
+            "CRU100",
+            "U-ARC003"
+        ]
+    },
+    {
+        "cardCode": "CRU101",
+        "name": "Plasma Barrel Shot",
+        "text": "**Once per Turn Action**: Remove a steam counter from Plasma Barrel Shot: **Attack**\\n\\n**Action** - [2 resource]: If there are no steam counters on Plasma Barrel Shot, put a steam counter on it. **Go again**\\n\\nX is equal to 1 plus the number of times you have **boosted** this combat chain.",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Mechanologist Weapon - Gun (2H)",
+        "stats": {
+            "attack": "X",
+            "power": "X"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU101",
+        "keywords": [
+            "mechanologist",
+            "weapon",
+            "gun",
+            "2h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU101-CF",
+            "CRU101"
+        ]
+    },
+    {
+        "cardCode": "CRU102",
+        "name": "Viziertronic Model i",
+        "text": "**Action** - Destroy Viziertronic Model i: Whenever you boost this turn, draw a card then put a card from your hand on top of your deck.\\n\\n**Arcane Barrier 2** *(If your hero would be dealt arcane damage, you may pay [2 resource] instead. If you do, prevent 2 arcane damage that source would deal.)*",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Mechanologist Equipment - Head",
+        "stats": {
+            "defense": "0"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU102",
+        "keywords": [
+            "mechanologist",
+            "equipment",
+            "head"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU102",
+            "CRU102-CF"
+        ]
+    },
+    {
+        "cardCode": "CRU103",
+        "name": "Meganetic Shockwave",
+        "text": "The defending hero must defend Meganetic Shockwave with X equipment they control, where X is the number of times you have **boosted** this turn.",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Mechanologist Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "4",
+            "defense": "3",
+            "resource": "3",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU103",
+        "keywords": [
+            "mechanologist",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU103-RF",
+            "CRU103"
+        ]
+    },
+    {
+        "cardCode": "CRU104",
+        "name": "Absorption Dome",
+        "text": "Absorption Dome enters the arena with steam counters on it equal to the number of times you have **boosted** this turn.\\n\\nIf you would be dealt damage, remove that many steam counters from Absorption Dome instead, then prevent damage equal to the number of steam counters removed in this way.\\n\\nWhen Absorption Dome has no steam counters on it, destroy it.",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Mechanologist Action - Item",
+        "stats": {
+            "cost": "0",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU104",
+        "keywords": [
+            "mechanologist",
+            "action",
+            "item"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU104-RF",
+            "CRU104"
+        ]
+    },
+    {
+        "cardCode": "CRU105",
+        "name": "Plasma Purifier",
+        "text": "**Action** - [resource]: If there are no steam counters on Plasma Purifier, put a steam counter on it. **Go again**\\n\\n**Once per Turn Action** - Remove a steam counter from Plasma Purifier: Target Mechanologist Pistol you control gains +1[attack] until end of turn. **Go again**",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Mechanologist Action - Item",
+        "stats": {
+            "cost": "2",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU105",
+        "keywords": [
+            "mechanologist",
+            "action",
+            "item"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU105-RF",
+            "CRU105"
+        ]
+    },
+    {
+        "cardCode": "CRU106",
+        "name": "High Speed Impact",
+        "text": "If High Speed Impact hits, the next attack you **boost** this combat chain gains **dominate**. *(The defending hero can't defend the attack with more than 1 card from their hand.)*\\n\\n**Boost** *(As an additional cost to play High Speed Impact, you may banish the top card of your deck. If it's a Mechanologist card, High Speed Impact gains **go again**.)* ",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Mechanologist Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "4",
+            "defense": "3",
+            "resource": "1",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU106",
+        "keywords": [
+            "mechanologist",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU106-RF",
+            "CRU106"
+        ]
+    },
+    {
+        "cardCode": "CRU107",
+        "name": "High Speed Impact",
+        "text": "If High Speed Impact hits, the next attack you **boost** this combat chain gains **dominate**. *(The defending hero can't defend the attack with more than 1 card from their hand.)*\\n\\n**Boost** *(As an additional cost to play High Speed Impact, you may banish the top card of your deck. If it's a Mechanologist card, High Speed Impact gains **go again**.)* ",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Mechanologist Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "3",
+            "defense": "3",
+            "resource": "2",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU107",
+        "keywords": [
+            "mechanologist",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU107",
+            "CRU107-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU108",
+        "name": "High Speed Impact",
+        "text": "If High Speed Impact hits, the next attack you **boost** this combat chain gains **dominate**. *(The defending hero can't defend the attack with more than 1 card from their hand.)*\\n\\n**Boost** *(As an additional cost to play High Speed Impact, you may banish the top card of your deck. If it's a Mechanologist card, High Speed Impact gains **go again**.)* ",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Mechanologist Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "2",
+            "defense": "3",
+            "resource": "3",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU108",
+        "keywords": [
+            "mechanologist",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU108-RF",
+            "CRU108"
+        ]
+    },
+    {
+        "cardCode": "CRU109",
+        "name": "Combustible Courier",
+        "text": "If Combustible Courier hits, the next attack you **boost** this turn gains +3[attack].\\n\\n**Boost** *(As an additional cost to play Combustible Courier, you may banish the top card of your deck. If it's a Mechanologist card, Combustible Courier gains **go again**.)*",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Mechanologist Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "4",
+            "defense": "3",
+            "resource": "1",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU109",
+        "keywords": [
+            "mechanologist",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU109-RF",
+            "CRU109"
+        ]
+    },
+    {
+        "cardCode": "CRU110",
+        "name": "Combustible Courier",
+        "text": "If Combustible Courier hits, the next attack you **boost** this turn gains +3[attack].\\n\\n**Boost** *(As an additional cost to play Combustible Courier, you may banish the top card of your deck. If it's a Mechanologist card, Combustible Courier gains **go again**.)*",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Mechanologist Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "3",
+            "defense": "3",
+            "resource": "2",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU110",
+        "keywords": [
+            "mechanologist",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU110",
+            "CRU110-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU111",
+        "name": "Combustible Courier",
+        "text": "If Combustible Courier hits, the next attack you **boost** this turn gains +3[attack].\\n\\n**Boost** *(As an additional cost to play Combustible Courier, you may banish the top card of your deck. If it's a Mechanologist card, Combustible Courier gains **go again**.)*",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Mechanologist Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "1",
+            "defense": "3",
+            "resource": "3",
+            "power": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU111",
+        "keywords": [
+            "mechanologist",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU111",
+            "CRU111-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU112",
+        "name": "Overblast",
+        "text": "Overblast gains +X[attack] where X is the number of times you have **boosted** this turn.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Mechanologist Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "5",
+            "defense": "3",
+            "resource": "1",
+            "power": "5"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU112",
+        "keywords": [
+            "mechanologist",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU112",
+            "CRU112-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU113",
+        "name": "Overblast",
+        "text": "Overblast gains +X[attack] where X is the number of times you have **boosted** this turn.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Mechanologist Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "4",
+            "defense": "3",
+            "resource": "2",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU113",
+        "keywords": [
+            "mechanologist",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU113-RF",
+            "CRU113"
+        ]
+    },
+    {
+        "cardCode": "CRU114",
+        "name": "Overblast",
+        "text": "Overblast gains +X[attack] where X is the number of times you have **boosted** this turn.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Mechanologist Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "3",
+            "defense": "3",
+            "resource": "3",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU114",
+        "keywords": [
+            "mechanologist",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU114-RF",
+            "CRU114"
+        ]
+    },
+    {
+        "cardCode": "CRU115",
+        "name": "Teklovossen's Workshop",
+        "text": "**Opt X**, where X is the number of times you have **boosted** this turn. *(Look at the top X cards of your deck. You may put them on the top and/or bottom in any order.)*\\n\\nReveal the top card of your deck. If it's a Mechanologist item card with cost 2 or less, put it into the arena.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Mechanologist Action",
+        "stats": {
+            "cost": "0",
+            "defense": "3",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU115",
+        "keywords": [
+            "mechanologist",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU115-RF",
+            "CRU115"
+        ]
+    },
+    {
+        "cardCode": "CRU116",
+        "name": "Teklovossen's Workshop",
+        "text": "**Opt X**, where X is the number of times you have **boosted** this turn. *(Look at the top X cards of your deck. You may put them on the top and/or bottom in any order.)*\\n\\nReveal the top card of your deck. If it's a Mechanologist item card with cost 1 or less, put it into the arena.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Mechanologist Action",
+        "stats": {
+            "cost": "0",
+            "defense": "3",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU116",
+        "keywords": [
+            "mechanologist",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU116-RF",
+            "CRU116"
+        ]
+    },
+    {
+        "cardCode": "CRU117",
+        "name": "Teklovossen's Workshop",
+        "text": "**Opt X**, where X is the number of times you have **boosted** this turn. *(Look at the top X cards of your deck. You may put them on the top and/or bottom in any order.)*\\n\\nReveal the top card of your deck. If it's a Mechanologist item card with cost 0, put it into the arena.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Mechanologist Action",
+        "stats": {
+            "cost": "0",
+            "defense": "3",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU117",
+        "keywords": [
+            "mechanologist",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU117",
+            "CRU117-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU118",
+        "name": "Kavdaen, Trader of Skins",
+        "text": "**Once per Turn Action** - [3 resource]: If a hero has more [life] than any other hero, they lose 1[life] and create a Copper token. Then if a hero has less [life] than any other hero, they gain 1[life]. **Go again** *(It's an item with \"**Action** - [4 resource], destroy Copper: Draw a card. **Go again**\")*",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Merchant Hero - Young",
+        "stats": {
+            "life": 20,
+            "intellect": 4
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU118",
+        "keywords": [
+            "merchant",
+            "hero",
+            "young"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU118-RF",
+            "CRU118",
+            "HER028-CF"
+        ]
+    },
+    {
+        "cardCode": "CRU119",
+        "name": "Azalea, Ace in the Hole",
+        "text": "**Once per Turn Action** - 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains **dominate** until end of turn. **Go again** *(The defending hero can't defend the attack with more than 1 card from their hand.)*",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Ranger Hero",
+        "stats": {
+            "life": 40,
+            "intellect": 4
+        },
+        "setCode": "ARC",
+        "cardClass": "Wizard",
+        "talent": "None",
+        "imageApiPath": "/images/CRU119",
+        "keywords": [
+            "ranger",
+            "hero"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided",
+            "Rainbow"
+        ],
+        "printings": [
+            "HER018-RF",
+            "ARC038",
+            "HER010-CF",
+            "CRU119",
+            "U-ARC038"
+        ]
+    },
+    {
+        "cardCode": "CRU120",
+        "name": "Death Dealer",
+        "text": "**Once per Turn Action** - [resource]: If you have no cards in your arsenal, you may put an arrow card from your hand face up into your arsenal. If you do, draw a card. **Go again**",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Ranger Weapon - Bow (2H)",
+        "stats": {},
+        "setCode": "ARC",
+        "cardClass": "Wizard",
+        "talent": "None",
+        "imageApiPath": "/images/CRU120",
+        "keywords": [
+            "ranger",
+            "weapon",
+            "bow",
+            "2h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided"
+        ],
+        "printings": [
+            "U-ARC040",
+            "ARC040",
+            "CRU120",
+            "LGS010-CF"
+        ]
+    },
+    {
+        "cardCode": "CRU121",
+        "name": "Red Liner",
+        "text": "**Once per Turn Action - 0**: If you have no cards in your arsenal, put an arrow card your hand face up into your arsenal. **Go again** ",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Ranger Weapon - Bow (2H)",
+        "stats": {},
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU121",
+        "keywords": [
+            "ranger",
+            "weapon",
+            "bow",
+            "2h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU121",
+            "CRU121-CF"
+        ]
+    },
+    {
+        "cardCode": "CRU122",
+        "name": "Perch Grapplers",
+        "text": "**Action - [2 resource],** Destroy Perch Grapplers: Until end of turn, face up arrow cards played from arsenal gain **go again**. **Go again**\\n\\n**Blade Break** *(If you defend with Perch Grapplers, destroy it when the combat chain closes.)*",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Ranger Equipment - Legs",
+        "stats": {
+            "defense": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU122",
+        "keywords": [
+            "ranger",
+            "equipment",
+            "legs"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU122-CF",
+            "CRU122"
+        ]
+    },
+    {
+        "cardCode": "CRU123",
+        "name": "Remorseless",
+        "text": "*(Arrows can only be played from arsenal and only if you control a bow.)*\\n\\nIf Remorseless is put into your arsenal face up, until end of turn it gains \"Defense reactions can't be played from arsenal to Remorseless' chain link.\"\\n\\nIf Remorseless hits a hero, until the end of their next turn, whenever they play an action card, they lose [life].",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Ranger Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "5",
+            "defense": "3",
+            "resource": "1",
+            "power": "5"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU123",
+        "keywords": [
+            "ranger",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU123",
+            "CRU123-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU124",
+        "name": "Poison the Tips",
+        "text": "Until end of turn, arrows you control gain \"If this hits a hero, they discard a card.\"\\n\\n**Reload** *(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)*\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Ranger Action",
+        "stats": {
+            "cost": "0",
+            "defense": "2",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU124",
+        "keywords": [
+            "ranger",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU124-RF",
+            "CRU124"
+        ]
+    },
+    {
+        "cardCode": "CRU125",
+        "name": "Feign Death",
+        "text": "Play Feign Death only if you have been dealt damage this turn.\\n\\nThe next time you would be dealt damage this turn, prevent it.",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Ranger Instant",
+        "stats": {
+            "cost": "1",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU125",
+        "keywords": [
+            "ranger",
+            "instant"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU125-RF",
+            "CRU125"
+        ]
+    },
+    {
+        "cardCode": "CRU126",
+        "name": "Tripwire Trap",
+        "text": "*(Traps can only be played from arsenal.)*\\n\\nHit effects don't trigger this chain link unless the attacking hero pays [resource]. *(The attacking hero chooses whether to pay [resource] as Tripwire Trap resolves.)*",
+        "flavour": "\"A crossbow bolt ain't gonna make a dent in that thing\" - Spokes",
+        "rarity": "R",
+        "type": "Ranger Defense Reaction Trap",
+        "stats": {
+            "cost": "0",
+            "defense": "4",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU126",
+        "keywords": [
+            "ranger",
+            "defense",
+            "reaction",
+            "trap"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU126",
+            "CRU126-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU127",
+        "name": "Pitfall Trap",
+        "text": "*(Traps can only be played from arsenal.)*\\n\\nDeal 2 damage to the attacking hero unless they pay [resource].",
+        "flavour": "\"Ain't a dreg, an' it ain't human. The hell am I s'posed to do against it?\" - Jackdaw",
+        "rarity": "R",
+        "type": "Ranger Defense Reaction Trap",
+        "stats": {
+            "cost": "0",
+            "defense": "3",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU127",
+        "keywords": [
+            "ranger",
+            "defense",
+            "reaction",
+            "trap"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU127-RF",
+            "CRU127"
+        ]
+    },
+    {
+        "cardCode": "CRU128",
+        "name": "Rockslide Trap",
+        "text": "*(Traps can only be played from arsena.)*\\n\\nTarget attack gets -2[attack] unless the attacking hero pays [resource]. *(The attacking hero chooses whether to pay [resource] as Rockslide Trap resolves.)*",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Ranger Defense Reaction Trap",
+        "stats": {
+            "cost": "0",
+            "defense": "2",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU128",
+        "keywords": [
+            "ranger",
+            "defense",
+            "reaction",
+            "trap"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU128-RF",
+            "CRU128"
+        ]
+    },
+    {
+        "cardCode": "CRU129",
+        "name": "Pathing Helix",
+        "text": "*(Arrows can only be played from arsenal and only if you control a bow.)*\\n\\nIf Pathing Helix hits and you have no cards in your arsenal, you may put a card from your hand, face down into your arsenal .",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ranger Action Arrow - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "4",
+            "defense": "3",
+            "resource": "1",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU129",
+        "keywords": [
+            "ranger",
+            "action",
+            "arrow",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU129-RF",
+            "CRU129"
+        ]
+    },
+    {
+        "cardCode": "CRU130",
+        "name": "Pathing Helix",
+        "text": "*(Arrows can only be played from arsenal and only if you control a bow.)*\\n\\nIf Pathing Helix hits and you have no cards in your arsenal, you may put a card from your hand, face down into your arsenal .",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ranger Action Arrow - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "3",
+            "defense": "3",
+            "resource": "2",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU130",
+        "keywords": [
+            "ranger",
+            "action",
+            "arrow",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU130-RF",
+            "CRU130"
+        ]
+    },
+    {
+        "cardCode": "CRU131",
+        "name": "Pathing Helix",
+        "text": "*(Arrows can only be played from arsenal and only if you control a bow.)*\\n\\nIf Pathing Helix hits and you have no cards in your arsenal, you may put a card from your hand, face down into your arsenal .",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ranger Action Arrow - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "2",
+            "defense": "3",
+            "resource": "3",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU131",
+        "keywords": [
+            "ranger",
+            "action",
+            "arrow",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU131",
+            "CRU131-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU132",
+        "name": "Sleep Dart",
+        "text": "*(Arrows can only be played from arsenal and only if you control a bow.)*\\n\\nIf Sleep Dart hits a hero, they lose all hero card effects and activated abilities until the end of their next turn. *(Treat the hero text box as though it was empty.)*",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ranger Action Arrow - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "5",
+            "defense": "3",
+            "resource": "1",
+            "power": "5"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU132",
+        "keywords": [
+            "ranger",
+            "action",
+            "arrow",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU132",
+            "CRU132-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU133",
+        "name": "Sleep Dart",
+        "text": "*(Arrows can only be played from arsenal and only if you control a bow.)*\\n\\nIf Sleep Dart hits a hero, they lose all hero card effects and activated abilities until the end of their next turn. *(Treat the hero text box as though it was empty.)*",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ranger Action Arrow - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "4",
+            "defense": "3",
+            "resource": "2",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU133",
+        "keywords": [
+            "ranger",
+            "action",
+            "arrow",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU133-RF",
+            "CRU133"
+        ]
+    },
+    {
+        "cardCode": "CRU134",
+        "name": "Sleep Dart",
+        "text": "*(Arrows can only be played from arsenal and only if you control a bow.)*\\n\\nIf Sleep Dart hits a hero, they lose all hero card effects and activated abilities until the end of their next turn. *(Treat the hero text box as though it was empty.)*",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ranger Action Arrow - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "3",
+            "defense": "3",
+            "resource": "3",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU134",
+        "keywords": [
+            "ranger",
+            "action",
+            "arrow",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU134",
+            "CRU134-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU135",
+        "name": "Increase the Tension",
+        "text": "Your next arrow attack this turn gains +3[attack] and \"Defense reactions can't be played from hand this chain link.\"\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ranger Action",
+        "stats": {
+            "cost": "1",
+            "defense": "2",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU135",
+        "keywords": [
+            "ranger",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU135-RF",
+            "CRU135"
+        ]
+    },
+    {
+        "cardCode": "CRU136",
+        "name": "Increase the Tension",
+        "text": "Your next arrow attack this turn gains +2[attack] and \"Defense reactions can't be played from hand this chain link.\"\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ranger Action",
+        "stats": {
+            "cost": "1",
+            "defense": "2",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU136",
+        "keywords": [
+            "ranger",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU136",
+            "CRU136-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU137",
+        "name": "Increase the Tension",
+        "text": "Your next arrow attack this turn gains +1[attack] and \"Defense reactions can't be played from hand this chain link.\"\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Ranger Action",
+        "stats": {
+            "cost": "1",
+            "defense": "2",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU137",
+        "keywords": [
+            "ranger",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU137-RF",
+            "CRU137"
+        ]
+    },
+    {
+        "cardCode": "CRU138",
+        "name": "Viserai, Rune Blood",
+        "text": "Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. *(It's an aura with \"When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.\")*",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Runeblade Hero",
+        "stats": {
+            "life": 40,
+            "intellect": 4
+        },
+        "setCode": "ARC",
+        "cardClass": "Wizard",
+        "talent": "None",
+        "imageApiPath": "/images/CRU138",
+        "keywords": [
+            "runeblade",
+            "hero"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided",
+            "Rainbow"
+        ],
+        "printings": [
+            "HER011-CF",
+            "HER019-RF",
+            "U-ARC075",
+            "ARC075",
+            "CRU138"
+        ]
+    },
+    {
+        "cardCode": "CRU139",
+        "name": "Nebula Blade",
+        "text": "**Once per Turn Action** - [2 resource]: **Attack**\\n\\nIf Nebula Blade hits , create a Runechant token.\\n\\nIf you have played a \u2018non-attack\u2019 action card this turn, Nebula Blade gains [+3 attack] until end of turn.",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Runeblade Weapon - Sword (2H)",
+        "stats": {
+            "attack": 1,
+            "power": 1
+        },
+        "setCode": "ARC",
+        "cardClass": "Wizard",
+        "talent": "None",
+        "imageApiPath": "/images/CRU139",
+        "keywords": [
+            "runeblade",
+            "weapon",
+            "sword",
+            "2h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided"
+        ],
+        "printings": [
+            "ARC077",
+            "U-ARC077",
+            "LGS011-CF",
+            "CRU139"
+        ]
+    },
+    {
+        "cardCode": "CRU140",
+        "name": "Reaping Blade",
+        "text": "**Once per Turn Action - [resource]: Attack**\\n\\nIf a hero has more [life] than any other hero, they can't gain [life].",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Runeblade Weapon - Sword (2H)",
+        "stats": {
+            "attack": "3",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU140",
+        "keywords": [
+            "runeblade",
+            "weapon",
+            "sword",
+            "2h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU140-CF",
+            "CRU140"
+        ]
+    },
+    {
+        "cardCode": "CRU141",
+        "name": "Bloodsheath Skeleta",
+        "text": "**Instant** - Destroy Bloodsheath Skeleta: The next attack action card and 'non-attack' action card you play this turn, gain \"This card costs [resource] less to play for each Runechant you control.\"\\n\\n**Temper** *(If you defend with Crater Fist, put a -1[defense] counter on it when the combat chain closes then destroy it if it has 0[defense].)*",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Runeblade Equipment - Chest",
+        "stats": {},
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU141",
+        "keywords": [
+            "runeblade",
+            "equipment",
+            "chest"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU141-CF",
+            "CRU141"
+        ]
+    },
+    {
+        "cardCode": "CRU142",
+        "name": "Dread Triptych",
+        "text": "If you've played a 'non-attack' action card this turn, create a Runechant token.\\n\\nIf you've dealt arcane damage this turn, create a Runechant token.\\n\\nIf you've Dread Triptych hits, create a Runechant token.",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Runeblade Action - Attack",
+        "stats": {
+            "cost": "3",
+            "attack": "4",
+            "defense": "3",
+            "resource": "3",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU142",
+        "keywords": [
+            "runeblade",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU142-RF",
+            "CRU142"
+        ]
+    },
+    {
+        "cardCode": "CRU143",
+        "name": "Rattle Bones",
+        "text": "Banish target Runeblade attack action card from your graveyard. You may play it this turn.\\n\\nIf you have dealt arcane damage this turn, you may play Rattle Bones as though it were an instant.\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Runeblade Action",
+        "stats": {
+            "cost": "2",
+            "defense": "3",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU143",
+        "keywords": [
+            "runeblade",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU143-RF",
+            "CRU143"
+        ]
+    },
+    {
+        "cardCode": "CRU144",
+        "name": "Runeblood Barrier",
+        "text": "Create 4 Runechant tokens.\\n\\nIf your hero would be dealt damage, instead destroy that many Runechants you control and prevent 1 damage for each Runechant destroyed this way.\\n\\nAt the beginning of your action phase, destroy Runeblood Barrier.",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Runeblade Action",
+        "stats": {
+            "cost": "3",
+            "defense": "2",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU144",
+        "keywords": [
+            "runeblade",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU144-RF",
+            "CRU144"
+        ]
+    },
+    {
+        "cardCode": "CRU145",
+        "name": "Mauvrion Skies",
+        "text": "The next Runeblade attack action card you play this turn gains **go again** and \"If this hits, create 3 Runechant tokens.\" *(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant deal 1 arcane damage to target opposing hero.\")*\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Runeblade Action",
+        "stats": {
+            "cost": "0",
+            "defense": "2",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU145",
+        "keywords": [
+            "runeblade",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU145-RF",
+            "CRU145"
+        ]
+    },
+    {
+        "cardCode": "CRU146",
+        "name": "Mauvrion Skies",
+        "text": "The next Runeblade attack action card you play this turn gains **go again** and \"If this hits, create 2 Runechant tokens.\" *(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant deal 1 arcane damage to target opposing hero.\")*\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Runeblade Action",
+        "stats": {
+            "cost": "0",
+            "defense": "2",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU146",
+        "keywords": [
+            "runeblade",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU146-RF",
+            "CRU146"
+        ]
+    },
+    {
+        "cardCode": "CRU147",
+        "name": "Mauvrion Skies",
+        "text": "The next Runeblade attack action card you play this turn gains **go again** and \"If this hits, create 1 Runechant tokens.\" *(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant deal 1 arcane damage to target opposing hero.\")*\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Runeblade Action",
+        "stats": {
+            "cost": "0",
+            "defense": "2",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU147",
+        "keywords": [
+            "runeblade",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU147-RF",
+            "CRU147"
+        ]
+    },
+    {
+        "cardCode": "CRU148",
+        "name": "Consuming Volition",
+        "text": "If you have dealt or deal arcane damage this turn, Consuming Volition gains \"If this hits a hero, they discard a card.\"",
+        "flavour": "The tongue is the only weapon that grows sharper with use.",
+        "rarity": "C",
+        "type": "Runeblade Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "4",
+            "defense": "3",
+            "resource": "1",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU148",
+        "keywords": [
+            "runeblade",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU148",
+            "CRU148-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU149",
+        "name": "Consuming Volition",
+        "text": "If you have dealt or deal arcane damage this turn, Consuming Volition gains \"If this hits a hero, they discard a card.\"",
+        "flavour": "The tongue is the only weapon that grows sharper with use.",
+        "rarity": "C",
+        "type": "Runeblade Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "4",
+            "defense": "3",
+            "resource": "2",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU149",
+        "keywords": [
+            "runeblade",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU149",
+            "CHN025",
+            "CRU149-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU150",
+        "name": "Consuming Volition",
+        "text": "If you have dealt or deal arcane damage this turn, Consuming Volition gains \"If this hits a hero, they discard a card.\"",
+        "flavour": "The tongue is the only weapon that grows sharper with use.",
+        "rarity": "C",
+        "type": "Runeblade Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "2",
+            "defense": "3",
+            "resource": "3",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU150",
+        "keywords": [
+            "runeblade",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU150-RF",
+            "CRU150"
+        ]
+    },
+    {
+        "cardCode": "CRU151",
+        "name": "Meat and Greet",
+        "text": "If Meat and Greet hits, create a Runechant Token. *(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant deal 1 arcane damage to target opposing hero.\")*\\n\\nIf you have dealt or deal arcane damage to an opposing hero this turn, Meat and Greet gains **go again**.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Runeblade Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "4",
+            "defense": "3",
+            "resource": "1",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU151",
+        "keywords": [
+            "runeblade",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU151-RF",
+            "CRU151"
+        ]
+    },
+    {
+        "cardCode": "CRU152",
+        "name": "Meat and Greet",
+        "text": "If Meat and Greet hits, create a Runechant Token. *(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant deal 1 arcane damage to target opposing hero.\")*\\n\\nIf you have dealt or deal arcane damage to an opposing hero this turn, Meat and Greet gains **go again**.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Runeblade Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "3",
+            "defense": "3",
+            "resource": "2",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU152",
+        "keywords": [
+            "runeblade",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU152-RF",
+            "CRU152"
+        ]
+    },
+    {
+        "cardCode": "CRU153",
+        "name": "Meat and Greet",
+        "text": "If Meat and Greet hits, create a Runechant Token. *(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant deal 1 arcane damage to target opposing hero.\")*\\n\\nIf you have dealt or deal arcane damage to an opposing hero this turn, Meat and Greet gains **go again**.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Runeblade Action - Attack",
+        "stats": {
+            "cost": "1",
+            "attack": "2",
+            "defense": "3",
+            "resource": "3",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU153",
+        "keywords": [
+            "runeblade",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU153",
+            "CRU153-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU154",
+        "name": "Sutcliffe's Research Notes",
+        "text": "Reveal the top 3 cards of your deck. Create a Runechant token for each Runeblade attack action card revealed this way, then put the cards on top of your deck in any order. *(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant deal 1 arcane damage to target opposing hero.\")*\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Runeblade Action",
+        "stats": {
+            "cost": "1",
+            "defense": "2",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU154",
+        "keywords": [
+            "runeblade",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU154",
+            "CRU154-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU155",
+        "name": "Sutcliffe's Research Notes",
+        "text": "Reveal the top 2 cards of your deck. Create a Runechant token for each Runeblade attack action card revealed this way, then put the cards on top of your deck in any order. *(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant deal 1 arcane damage to target opposing hero.\")*\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Runeblade Action",
+        "stats": {
+            "cost": "1",
+            "defense": "2",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU155",
+        "keywords": [
+            "runeblade",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU155-RF",
+            "CRU155"
+        ]
+    },
+    {
+        "cardCode": "CRU156",
+        "name": "Sutcliffe's Research Notes",
+        "text": "Reveal the top card of your deck. Create a Runechant token for each Runeblade attack action card revealed this way, then put the cards on top of your deck in any order. *(They're auras with \"When you play an attack action card or attack with a weapon, destroy Runechant deal 1 arcane damage to target opposing hero.\")*\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Runeblade Action",
+        "stats": {
+            "cost": "1",
+            "defense": "2",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU156",
+        "keywords": [
+            "runeblade",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU156",
+            "CRU156-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU157",
+        "name": "Runechant",
+        "text": "*(Auras stay in the arena until they are destroyed.)*\\n\\nWhen you play an attack action card, or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Runeblade Token - Aura",
+        "stats": {},
+        "setCode": "ARC",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU157",
+        "keywords": [
+            "runeblade",
+            "token",
+            "aura"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Double Slided",
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU157-RF",
+            "U-ARC112",
+            "ARC112"
+        ]
+    },
+    {
+        "cardCode": "CRU158",
+        "name": "Kano, Dracai of Aether",
+        "text": "**Instant** - [3 resource]: Look at the top card of your deck. If it's a 'non-attack' action card, you may banish it. If you do, you may play it this turn as though it were an instant.",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Wizard Hero",
+        "stats": {
+            "life": 30,
+            "intellect": 4
+        },
+        "setCode": "ARC",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU158",
+        "keywords": [
+            "wizard",
+            "hero"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided",
+            "Rainbow"
+        ],
+        "printings": [
+            "ARC113",
+            "CRU158",
+            "U-ARC113",
+            "HER012-CF",
+            "HER020-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU159",
+        "name": "Crucible of Aetherweave",
+        "text": "**Once per Turn Instant** - [resource]: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Wizard Weapon - Staff (2H)",
+        "stats": {},
+        "setCode": "ARC",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU159",
+        "keywords": [
+            "wizard",
+            "weapon",
+            "staff",
+            "2h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Double Slided"
+        ],
+        "printings": [
+            "U-ARC115",
+            "ARC115",
+            "CRU159",
+            "LGS012-CF"
+        ]
+    },
+    {
+        "cardCode": "CRU160",
+        "name": "Aether Conduit",
+        "text": "**Once per Turn Action - [2 resource]: ** Deal 2 arcane damage to target hero. ",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Wizard Weapon - Staff (2H)",
+        "stats": {},
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU160",
+        "keywords": [
+            "wizard",
+            "weapon",
+            "staff",
+            "2h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU160-CF",
+            "CRU160"
+        ]
+    },
+    {
+        "cardCode": "CRU161",
+        "name": "Metacarpus Node",
+        "text": "Whenever you play a card with an effect that deals arcane damage, you may pay [resource]. If you do, that effect deals that much arcane damage plus 1 and at the beginning of the end phase, destroy Metacarpus Node.\\n\\n**Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay [resource] instead. If you do, prevent 1 arcane damage that source would deal.",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Wizard Equipment - Arms",
+        "stats": {
+            "defense": "0"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU161",
+        "keywords": [
+            "wizard",
+            "equipment",
+            "arms"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU161",
+            "CRU161-CF"
+        ]
+    },
+    {
+        "cardCode": "CRU162",
+        "name": "Chain Lightning",
+        "text": "You may play your next Wizard 'non-attack' action card this turn as though it were an instant.\\n\\nIf you have played another Wizard 'non-attack' action card this turn, deal 3 damage to each opposing hero.",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Wizard Action",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU162",
+        "keywords": [
+            "wizard",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU162",
+            "CRU162-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU163",
+        "name": "Gaze the Ages",
+        "text": "**Opt 2** *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom of your deck in any order.)*\\n\\nIf you have played another Wizard 'non-attack' action card this turn, put Gaze the Ages into your hand as it resolves.",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Wizard Action",
+        "stats": {
+            "cost": "0",
+            "defense": "3",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU163",
+        "keywords": [
+            "wizard",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU163",
+            "CRU163-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU164",
+        "name": "Aetherize",
+        "text": "**Negate** target instant card with cost 1 or less. *(The card does not resolve. Put it into its owner's graveyard.",
+        "flavour": "\"I find it amusing how often mortals turn to prayer as their last line of defense.\" - Kano",
+        "rarity": "M",
+        "type": "Wizard Instant",
+        "stats": {
+            "cost": "1",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU164",
+        "keywords": [
+            "wizard",
+            "instant"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU164",
+            "CRU164-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU165",
+        "name": "Cindering Foresight",
+        "text": "If it's not your turn, you may play Cindering Foresight as though it were an instant.\\n\\nThe next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.\\n\\n**Opt 3** *(Look at the top 3 cards of your deck. You may put them on the top and/or bottom of your deck in any order.)*",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Wizard Action",
+        "stats": {
+            "cost": "0",
+            "defense": "2",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU165",
+        "keywords": [
+            "wizard",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU165",
+            "CRU165-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU166",
+        "name": "Cindering Foresight",
+        "text": "If it's not your turn, you may play Cindering Foresight as though it were an instant.\\n\\nThe next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.\\n\\n**Opt 2** *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom of your deck in any order.)*",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Wizard Action",
+        "stats": {
+            "cost": "0",
+            "defense": "2",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU166",
+        "keywords": [
+            "wizard",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU166-RF",
+            "CRU166"
+        ]
+    },
+    {
+        "cardCode": "CRU167",
+        "name": "Cindering Foresight",
+        "text": "If it's not your turn, you may play Cindering Foresight as though it were an instant.\\n\\nThe next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.\\n\\n**Opt 1** *(Look at the top card of your deck. You may put it on the top or bottom or your deck.)*",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Wizard Action",
+        "stats": {
+            "cost": "0",
+            "defense": "2",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU167",
+        "keywords": [
+            "wizard",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU167",
+            "CRU167-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU168",
+        "name": "Foreboding Bolt",
+        "text": "Deal 3 arcane damage to target hero.\\n\\n**Opt 1** *(Look at the top card of your deck. You may put it on the bottom.)*",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Wizard Action",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU168",
+        "keywords": [
+            "wizard",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU168",
+            "CRU168-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU169",
+        "name": "Foreboding Bolt",
+        "text": "Deal 2 arcane damage to target hero.\\n\\n**Opt 1** *(Look at the top card of your deck. You may put it on the bottom.)*",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Wizard Action",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU169",
+        "keywords": [
+            "wizard",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU169-RF",
+            "CRU169"
+        ]
+    },
+    {
+        "cardCode": "CRU170",
+        "name": "Foreboding Bolt",
+        "text": "Deal 1 arcane damage to target hero.\\n\\n**Opt 1** *(Look at the top card of your deck. You may put it on the bottom.)*",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Wizard Action",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU170",
+        "keywords": [
+            "wizard",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU170",
+            "CRU170-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU171",
+        "name": "Rousing Aether",
+        "text": "Deal 4 arcane damage to target hero.\\n\\nThe next card you play this turn with an effect that deals arcane damage, instead deals that much damage plus 1.",
+        "flavour": "\"Please... you could never have unlocked its true power.\" - Linnea, Mistress of Malady",
+        "rarity": "C",
+        "type": "Wizard Action",
+        "stats": {
+            "cost": "2",
+            "defense": "3",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU171",
+        "keywords": [
+            "wizard",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU171",
+            "CRU171-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU172",
+        "name": "Rousing Aether",
+        "text": "Deal 3 arcane damage to target hero.\\n\\nThe next card you play this turn with an effect that deals arcane damage, instead deals that much damage plus 1.",
+        "flavour": "\"Please... you could never have unlocked its true power.\" - Linnea, Mistress of Malady",
+        "rarity": "C",
+        "type": "Wizard Action",
+        "stats": {
+            "cost": "2",
+            "defense": "3",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU172",
+        "keywords": [
+            "wizard",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU172-RF",
+            "CRU172"
+        ]
+    },
+    {
+        "cardCode": "CRU173",
+        "name": "Rousing Aether",
+        "text": "Deal 2 arcane damage to target hero.\\n\\nThe next card you play this turn with an effect that deals arcane damage, instead deals that much damage plus 1.",
+        "flavour": "\"Please... you could never have unlocked its true power.\" - Linnea, Mistress of Malady",
+        "rarity": "C",
+        "type": "Wizard Action",
+        "stats": {
+            "cost": "2",
+            "defense": "3",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU173",
+        "keywords": [
+            "wizard",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU173",
+            "CRU173-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU174",
+        "name": "Snapback",
+        "text": "Deal 3 arcane damage to target hero.\\n\\nif you have played another Wizard 'non-attack' action card this turn, you may play Snapback as though it were an instant.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Wizard Action",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU174",
+        "keywords": [
+            "wizard",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU174-RF",
+            "CRU174"
+        ]
+    },
+    {
+        "cardCode": "CRU175",
+        "name": "Snapback",
+        "text": "Deal 2 arcane damage to target hero.\\n\\nif you have played another Wizard 'non-attack' action card this turn, you may play Snapback as though it were an instant.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Wizard Action",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU175",
+        "keywords": [
+            "wizard",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU175",
+            "CRU175-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU176",
+        "name": "Snapback",
+        "text": "Deal 1 arcane damage to target hero.\\n\\nif you have played another Wizard 'non-attack' action card this turn, you may play Snapback as though it were an instant.",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Wizard Action",
+        "stats": {
+            "cost": "1",
+            "defense": "3",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU176",
+        "keywords": [
+            "wizard",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU176-RF",
+            "CRU176"
+        ]
+    },
+    {
+        "cardCode": "CRU177",
+        "name": "Talishar, the Lost Prince",
+        "text": "**Once per Turn action - [2 resource]**, put a rust token on Talishar, the Lost Prince: **Attack**\\n\\nAt the beginning of your end phase, if Talishar, the Lost Prince has 3 or more rust counters on it, destroy it.  ",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Generic Weapon - Sword (2H)",
+        "stats": {
+            "attack": "4",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU177",
+        "keywords": [
+            "generic",
+            "weapon",
+            "sword",
+            "2h"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU177",
+            "CRU177-CF"
+        ]
+    },
+    {
+        "cardCode": "CRU178",
+        "name": "Fyendal's Spring Tunic",
+        "text": "At the start of your turn, if Fyendal's Spring Tunic has less than 3 energy counters, you may put an energy counter on it.\\n\\n**Instant** - Remove 3 energy counters from Fyendal's Spring tunic: Gain [resource]\\n\\n**Blade Break** (If you defend with Fyendal's Spring tunic, destroy it when the combat chain closes.)",
+        "flavour": "",
+        "rarity": "L",
+        "type": "Generic Equipment - Chest",
+        "stats": {
+            "defense": 1
+        },
+        "setCode": "WTR",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU178",
+        "keywords": [
+            "generic",
+            "equipment",
+            "chest"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil",
+            "Rainbow"
+        ],
+        "printings": [
+            "U-WTR150-RF",
+            "CRU178",
+            "WTR150-CF",
+            "FAB001-GF"
+        ]
+    },
+    {
+        "cardCode": "CRU179",
+        "name": "Gambler's Gloves",
+        "text": "Whenever a hero rolls a 6-sided die, you may destroy Gambler's Gloves. If you do, that hero rerolls the die. *(You decide whether to use Gambler's Glove after seeing the result of the die roll.)*",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Generic Equipment - Arms",
+        "stats": {
+            "defense": "0"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU179",
+        "keywords": [
+            "generic",
+            "equipment",
+            "arms"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Cold Foil"
+        ],
+        "printings": [
+            "CRU179",
+            "CRU179-CF"
+        ]
+    },
+    {
+        "cardCode": "CRU180",
+        "name": "Coax a Commotion",
+        "text": "If Coax a Commotion hits, choose any number:\\n\\n* Each hero creates a Quicken Token\\n* Each hero draws a card\\n* Each hero gains 1[life].",
+        "flavour": "In Aria, preparing for war means making the most of the time you have left.",
+        "rarity": "M",
+        "type": "Generic Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "4",
+            "defense": "2",
+            "resource": "1",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU180",
+        "keywords": [
+            "generic",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU180-RF",
+            "CRU180"
+        ]
+    },
+    {
+        "cardCode": "CRU181",
+        "name": "Gorganian Tome",
+        "text": "**Legendary** *(You may only have one Gorganian Tome in your deck.)*\\n\\nDraw X cards, where X is 1 plus the number of Gorganian Tomes in all graveyards.\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Generic Action",
+        "stats": {
+            "cost": "0"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU181",
+        "keywords": [
+            "generic",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU181",
+            "CRU181-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU182",
+        "name": "Snag",
+        "text": "Attack action cards can't gain [attack] from their own effects or the effects of attack reaction cards this turn. *(This only affects [attack] that would be gained after Snag has resolved.)*",
+        "flavour": "",
+        "rarity": "M",
+        "type": "Generic Instant",
+        "stats": {
+            "cost": "0",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU182",
+        "keywords": [
+            "generic",
+            "instant"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU182-RF",
+            "CRU182"
+        ]
+    },
+    {
+        "cardCode": "CRU183",
+        "name": "Promise of Plenty",
+        "text": "If Promise of Plenty hits, each hero who doesn't have a card in arsenal puts the top card of their deck face down into their arsenal.\\n\\nIf Promise of Plenty is played from arsenal, it gains **go again**. ",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Generic Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "3",
+            "defense": "2",
+            "resource": "1",
+            "power": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU183",
+        "keywords": [
+            "generic",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU183-RF",
+            "CRU183"
+        ]
+    },
+    {
+        "cardCode": "CRU184",
+        "name": "Promise of Plenty",
+        "text": "If Promise of Plenty hits, each hero who doesn't have a card in arsenal puts the top card of their deck face down into their arsenal.\\n\\nIf Promise of Plenty is played from arsenal, it gains **go again**. ",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Generic Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "2",
+            "defense": "2",
+            "resource": "2",
+            "power": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU184",
+        "keywords": [
+            "generic",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU184",
+            "CRU184-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU185",
+        "name": "Promise of Plenty",
+        "text": "If Promise of Plenty hits, each hero who doesn't have a card in arsenal puts the top card of their deck face down into their arsenal.\\n\\nIf Promise of Plenty is played from arsenal, it gains **go again**. ",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Generic Action - Attack",
+        "stats": {
+            "cost": "0",
+            "attack": "1",
+            "defense": "2",
+            "resource": "3",
+            "power": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU185",
+        "keywords": [
+            "generic",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU185",
+            "CRU185-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU186",
+        "name": "Lunging Press",
+        "text": "Target attack action card gains +1[attack].",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Generic Attack Reaction",
+        "stats": {
+            "cost": "0",
+            "defense": "2",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU186",
+        "keywords": [
+            "generic",
+            "attack",
+            "reaction"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "IRA011",
+            "CRU186-RF",
+            "KSU028"
+        ]
+    },
+    {
+        "cardCode": "CRU187",
+        "name": "Springboard Somersault",
+        "text": "If Springboard Somersault is played from arsenal, it gains +2[defense].",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Generic Defense Reaction",
+        "stats": {
+            "cost": "0",
+            "defense": "2",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU187",
+        "keywords": [
+            "generic",
+            "defense",
+            "reaction"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "BVO015",
+            "KSU021",
+            "CRU187-RF",
+            "IRA012",
+            "TEA019",
+            "RNR022"
+        ]
+    },
+    {
+        "cardCode": "CRU188",
+        "name": "Cash In",
+        "text": "You may destroy 4 Coppers, 2 Silvers, or 1 Gold you control rather than pay Cash In's cost.\\n\\nDraw 2 cards.\\n\\n**Go again**",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Generic Action",
+        "stats": {
+            "cost": "4",
+            "defense": "2",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU188",
+        "keywords": [
+            "generic",
+            "action"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU188",
+            "CRU188-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU189",
+        "name": "Reinforce the Line",
+        "text": "Target defending attack action card gains +4[defense].",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Generic Instant",
+        "stats": {
+            "cost": "0",
+            "resource": "1"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU189",
+        "keywords": [
+            "generic",
+            "instant"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU189",
+            "CRU189-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU190",
+        "name": "Reinforce the Line",
+        "text": "Target defending attack action card gains +3[defense].",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Generic Instant",
+        "stats": {
+            "cost": "0",
+            "resource": "2"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU190",
+        "keywords": [
+            "generic",
+            "instant"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU190-RF",
+            "CRU190"
+        ]
+    },
+    {
+        "cardCode": "CRU191",
+        "name": "Reinforce the Line",
+        "text": "Target defending attack action card gains +2[defense].",
+        "flavour": "",
+        "rarity": "R",
+        "type": "Generic Instant",
+        "stats": {
+            "cost": "0",
+            "resource": "3"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU191",
+        "keywords": [
+            "generic",
+            "instant"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU191",
+            "CRU191-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU192",
+        "name": "Brutal Assault",
+        "text": "",
+        "flavour": "\"By the all-seeing eye, I spill this blood in your image, I sacrifice this foul beast unto you, that you might take - Wait. What are you doing? Don't - no!\" - Septus",
+        "rarity": "C",
+        "type": "Generic Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "6",
+            "defense": "3",
+            "resource": "1",
+            "power": "6"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU192",
+        "keywords": [
+            "generic",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU192",
+            "CRU192-RF"
+        ]
+    },
+    {
+        "cardCode": "CRU193",
+        "name": "Brutal Assault",
+        "text": "",
+        "flavour": "\"By the all-seeing eye, I spill this blood in your image, I sacrifice this foul beast unto you, that you might take - Wait. What are you doing? Don't - no!\" - Septus",
+        "rarity": "C",
+        "type": "Generic Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "5",
+            "defense": "3",
+            "resource": "2",
+            "power": "5"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU193",
+        "keywords": [
+            "generic",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU193-RF",
+            "CRU193"
+        ]
+    },
+    {
+        "cardCode": "CRU194",
+        "name": "Brutal Assault",
+        "text": "",
+        "flavour": "\"By the all-seeing eye, I spill this blood in your image, I sacrifice this foul beast unto you, that you might take - Wait. What are you doing? Don't - no!\" - Septus",
+        "rarity": "C",
+        "type": "Generic Action - Attack",
+        "stats": {
+            "cost": "2",
+            "attack": "4",
+            "defense": "3",
+            "resource": "3",
+            "power": "4"
+        },
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU194",
+        "keywords": [
+            "generic",
+            "action",
+            "attack"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU194-RF",
+            "IRA010",
+            "CRU194"
+        ]
+    },
+    {
+        "cardCode": "CRU195",
+        "name": "Cracked Bauble",
+        "text": "*Cracked bauble exists to support Booster Draft and Sealed Deck Formats. A player may add any number of Cracked Baubles to their deck. Typically, a player would only do this if they did not have enough legally playable cards to make a 30 card minimum deck.*",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Generic Resource",
+        "stats": {
+            "resource": "2"
+        },
+        "setCode": "WTR",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU195",
+        "keywords": [
+            "generic",
+            "resource"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Double Slided",
+            "Rainbow"
+        ],
+        "printings": [
+            "U-WTR224",
+            "U-ARC218",
+            "WTR224",
+            "CRU195-RF",
+            "ARC218"
+        ]
+    },
+    {
+        "cardCode": "CRU196",
+        "name": "Quicken",
+        "text": "*(Auras stay in the arena until they are destroyed.)*\\n\\nWhen you play an attack action card or attack with a weapon, destroy Quicken then the attack gains **go again**.",
+        "flavour": "",
+        "rarity": "T",
+        "type": "Generic Token - Aura",
+        "stats": {},
+        "setCode": "WTR",
+        "cardClass": "Generic",
+        "talent": "None",
+        "imageApiPath": "/images/CRU196",
+        "keywords": [
+            "generic",
+            "token",
+            "aura"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Double Slided",
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU196-RF",
+            "U-WTR225",
+            "RNR031",
+            "WTR225",
+            "TEA030"
+        ]
+    },
+    {
+        "cardCode": "CRU197",
+        "name": "Copper",
+        "text": "**Action** - [4 resource] ,destroy Copper: Draw a card. **Go again**",
+        "flavour": "",
+        "rarity": "C",
+        "type": "Generic Token - Item",
+        "stats": {},
+        "setCode": "CRU",
+        "cardClass": "Brute",
+        "talent": "None",
+        "imageApiPath": "/images/CRU197",
+        "keywords": [
+            "generic",
+            "token",
+            "item"
+        ],
+        "illegalFormats": [],
+        "frames": [
+            "Rainbow"
+        ],
+        "printings": [
+            "CRU197",
+            "CRU197-RF"
+        ]
+    }
+]

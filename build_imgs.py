@@ -38,7 +38,7 @@ def main():
     for fname in datasets:
         jfile = open(fname, "r")
         collection = fname.split("/")[1].replace(".json", "")
-        data = build_releases(collection, json.loads(jfile.read()), limited[datasets.index(fname)])
+        build_releases(collection, json.loads(jfile.read()), limited[datasets.index(fname)])
         jfile.close()
 
 if __name__ == '__main__':

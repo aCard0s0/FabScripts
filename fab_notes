@@ -11,9 +11,158 @@ Blitz
 Classic Construtor
 
 *Types
-Hero
-Action, 
-Attack Reaction, 
-Defense Reaction, 
-Weapon
-Equiment
+Brute - Attack Action
+Brute Action
+Brute Action - Attack
+Brute Defense Reaction
+Brute Equipment - Chest
+Brute Equipment - Head
+Brute Equipment - Legs
+Brute Hero
+Brute Hero - Young
+Brute Instant
+Brute Weapon - Axe (2H)
+Brute Weapon - Claw (1H)
+Brute Weapon - Club (2H)
+Generic Action
+Generic Action - Attack
+Generic Action - Aura
+Generic Action - Item
+Generic Attack Reaction
+Generic Defense Reaction
+Generic Equipment - Arms
+Generic Equipment - Chest
+Generic Equipment - Head
+Generic Equipment - Legs
+Generic Instant
+Generic Resource
+Generic Resource - Gem
+Generic Token - Aura
+Generic Token - Item
+Generic Weapon - Sword (2H)
+Guardian Action  - Aura
+Guardian Action - Attack
+Guardian Action - Aura
+Guardian Defense Reaction
+Guardian Equipment - Arms
+Guardian Equipment - Chest
+Guardian Equipment - Head
+Guardian Hero
+Guardian Hero - Young
+Guardian Instant
+Guardian Token - Aura
+Guardian Weapon - Hammer (2H)
+Illusionist Action
+Illusionist Action - Attack
+Illusionist Equipment - Arms
+Illusionist Equipment - Legs
+Illusionist Instant
+Illusionist Token - Aura
+Illusionist Weapon - Orb (2H)
+Light Action
+Light Action - Attack
+Light Action Landmark
+Light Defense Reaction
+Light Equipment - Chest
+Light Equipment - Head
+Light Illusionist Action - Attack
+Light Illusionist Hero
+Light Illusionist Hero - Young
+Light Illusionist Instant - Aura
+Light Illusionist Weapon - Scepter (2H)
+Light Instant
+Light Warrior Action
+Light Warrior Action - Attack
+Light Warrior Attack Reaction
+Light Warrior Hero
+Light Warrior Hero - Young
+Light Warrior Weapon - Sword (2H)
+Mechanologist Action
+Mechanologist Action - Attack
+Mechanologist Action - Item
+Mechanologist Equipment - Chest
+Mechanologist Equipment - Head
+Mechanologist Equipment - Legs
+Mechanologist Hero
+Mechanologist Hero - Young
+Mechanologist Weapon - Gun (2H)
+Mechanologist Weapon - Pistol (2H)
+Merchant Hero - Young
+Ninja Action - Attack
+Ninja Attack Reaction
+Ninja Defense Reaction
+Ninja Equipment - Arms
+Ninja Equipment - Head
+Ninja Equipment - Legs
+Ninja Hero
+Ninja Hero - Young
+Ninja Token - Aura
+Ninja Weapon - (2H)
+Ninja Weapon - Dagger (1H)
+Ranger Action
+Ranger Action - Attack
+Ranger Action Arrow - Attack
+Ranger Defense Reaction
+Ranger Defense Reaction Trap
+Ranger Equipment - Arms
+Ranger Equipment - Head
+Ranger Equipment - Legs
+Ranger Hero
+Ranger Hero - Young
+Ranger Instant
+Ranger Weapon - Bow (2H)
+Runeblade Action
+Runeblade Action - Attack
+Runeblade Action - Aura
+Runeblade Defense Reaction
+Runeblade Equipment - Arms
+Runeblade Equipment - Chest
+Runeblade Equipment - Head
+Runeblade Hero
+Runeblade Hero - Young
+Runeblade Resource - Gem
+Runeblade Token - Aura
+Runeblade Weapon - Scythe (2H)
+Runeblade Weapon - Sword (2H)
+Shadow Action
+Shadow Action - Attack
+Shadow Brute Action
+Shadow Brute Action - Attack
+Shadow Brute Equipment - Legs
+Shadow Brute Hero
+Shadow Brute Hero - Young
+Shadow Brute Weapon -  Flail (2H)
+Shadow Defense Reaction
+Shadow Equipment - Chest
+Shadow Equipment - Head
+Shadow Instant
+Shadow Runeblade Action
+Shadow Runeblade Action - Attack
+Shadow Runeblade Action - Aura
+Shadow Runeblade Hero
+Shadow Runeblade Hero - Young
+Shadow Runeblade Instant
+Shadow Runeblade Token - Aura
+Shadow Runeblade Weapon - Sword (2H)
+Shadow Token Demon ally
+Shapeshifter Hero - Young
+Warrior Action
+Warrior Attack Reaction
+Warrior Defense Reaction
+Warrior Equipment - Arms
+Warrior Equipment - Chest
+Warrior Equipment - Legs
+Warrior Hero
+Warrior Hero - Young
+Warrior Weapon - Axe (1H)
+Warrior Weapon - Sword (1H)
+Warrior Weapon - Sword (2H)
+Wizard Action
+Wizard Defense Reaction
+Wizard Equipment - Arms
+Wizard Equipment - Chest
+Wizard Equipment - Legs
+Wizard Hero
+Wizard Hero - Young
+Wizard Instant
+Wizard Weapon - Staff (2H)

@@ -1,7 +1,4 @@
-import requests
 import json
-import shutil
-import re
 from pathlib import Path
 
 def get_release_name(setCode):

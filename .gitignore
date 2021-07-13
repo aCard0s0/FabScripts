@@ -129,5 +129,7 @@ dmypy.json
 .pyre/
 
 # my files to ignore
-test.py
+.DS_Store
+tests.py
+decklist.py
 /images/*
